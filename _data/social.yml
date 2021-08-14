@@ -28,10 +28,10 @@ twitch: jenna_dor_dor
 share:
   facebook: false
   twitter: true
-  tumblr:
-  pinterest:
-  pocket:
+  tumblr: false
+  pinterest: false
+  pocket: false
   reddit: true
-  linkedin:
-  wordpress:
-  email: true
+  linkedin: false
+  wordpress: false
+  email: false

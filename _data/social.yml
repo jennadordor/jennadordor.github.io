@@ -18,15 +18,15 @@ stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter:
+twitter: jennadordor
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+twitch: jenna_dor_dor
 
 # Share button options
 share:
-  facebook: true
+  facebook: false
   twitter: true
   tumblr:
   pinterest:

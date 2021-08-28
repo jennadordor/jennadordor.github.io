@@ -33,7 +33,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.4.2"
+    "version": "6.1.4.3"
   },
   {
     "author": "SirRandoo",
@@ -60,6 +60,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -79,9 +85,9 @@
   },
   {
     "author": "jecrell and contributors",
-    "name": "JecsTools (Unofficial)",
-    "steamId": "2195729899",
-    "version": "1.3.0.3"
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
   },
   {
     "author": "Gouda quiche",
@@ -176,6 +182,18 @@
   {
     "author": "Gloomylynx NukaFrog",
     "name": "Dragonian Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sunny",
+    "name": "Rabbie The Moonrabbit - English Patch (1.3)",
     "steamId": null,
     "version": null
   },
@@ -399,7 +417,7 @@
     "author": "Oskar Potocki,  Taranchuk and  Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
-    "version": "1.0.0.0"
+    "version": "1.0.0.1"
   },
   {
     "author": "Oskar Potocki,  Kikohi and  Helixien",
@@ -459,7 +477,7 @@
     "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
-    "version": "1.0.1.1"
+    "version": "1.0.1.2"
   },
   {
     "author": "Oskar Potocki",
@@ -489,7 +507,7 @@
     "author": "Oskar Potocki and  Taranchuk",
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
-    "version": "1.0.0.0"
+    "version": "1.0.0.1"
   },
   {
     "author": "Oskar Potocki",
@@ -576,6 +594,12 @@
     "version": null
   },
   {
+    "author": "Inglix",
+    "name": "Faster Biosculpter Pod",
+    "steamId": "2576257954",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "MrKociak",
     "name": "More Archotech Garbage Reupload",
     "steamId": null,
@@ -618,6 +642,12 @@
     "version": null
   },
   {
+    "author": "miyamiya",
+    "name": "Compressed Raid",
+    "steamId": "2377478084",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Kentington and Thain",
     "name": "Save Our Ship 2",
     "steamId": null,
@@ -650,12 +680,6 @@
   {
     "author": "Shavius",
     "name": "Ratkin/Rabbie/Dragonian/Moyo RBSE compatibility patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "sunny",
-    "name": "Rabbie The Moonrabbit - English Patch (1.3)",
     "steamId": null,
     "version": null
   },
@@ -740,8 +764,8 @@
   {
     "author": "Monti and  Caulaflower",
     "name": "Half dragons",
-    "steamId": null,
-    "version": null
+    "steamId": "2556121262",
+    "version": "1.0.0.0"
   },
   {
     "author": "dracoix",
@@ -778,6 +802,12 @@
     "name": "Mad Skills",
     "steamId": "731111514",
     "version": "2.5.0.0"
+  },
+  {
+    "author": "mx",
+    "name": "Matoi and Hitsugi hair ",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Haplo",
@@ -888,10 +918,46 @@
     "version": "1.0.7865.41688"
   },
   {
+    "author": "Sarg",
+    "name": "RimBees",
+    "steamId": "1558161673",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BOXrsxx,  Vaniat and  LingLuo",
+    "name": "More Practical Traits (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Vanilla Trait Colors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Medieval Talents",
+    "steamId": "1916352291",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Roolo",
     "name": "Dual Wield",
     "steamId": "1628211313",
     "version": "0.5.0.0"
+  },
+  {
+    "author": "Rah",
+    "name": "Rah's Vanilla Turrets Expansion",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "erdelf",
@@ -1070,8 +1136,8 @@
   {
     "author": "Shadowrabbit",
     "name": "[SR]Factional War",
-    "steamId": null,
-    "version": null
+    "steamId": "2534328163",
+    "version": "1.0.0.0"
   },
   {
     "author": "Epicguru (James B)",
@@ -1089,13 +1155,19 @@
     "author": "SirMashedPotato",
     "name": "MorrowRim",
     "steamId": "2443089362",
-    "version": "1.6.76"
+    "version": "1.6.80"
   },
   {
     "author": "SirMashedPotato",
     "name": "MorrowRim - Trolls",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Darknet+",
+    "steamId": "2581753854",
+    "version": "1.0.0.0"
   },
   {
     "author": "Tyrannical_Elmo",
@@ -1214,6 +1286,12 @@
   {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xavior",
+    "name": "Glitter Tech",
     "steamId": null,
     "version": null
   },
@@ -1617,7 +1695,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3094.1"
+    "version": "1.3.3102.1"
   },
   {
     "author": "民火",
@@ -1718,6 +1796,12 @@
   {
     "author": "Spincrus",
     "name": "Dinosauria",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ILuvSilicon",
+    "name": "Xenohumans Expanded",
     "steamId": null,
     "version": null
   },
@@ -1974,12 +2058,6 @@
     "version": null
   },
   {
-    "author": "Xavior",
-    "name": "Glitter Tech",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "KEGARR",
     "name": "Random Icon Pack",
     "steamId": null,
@@ -2139,7 +2217,7 @@
     "author": "Qarsoon Meel",
     "name": "Dreamer's Dreams",
     "steamId": "2514986353",
-    "version": "2.1.2"
+    "version": "2.2.0"
   },
   {
     "author": "Bob",
@@ -2162,12 +2240,6 @@
   {
     "author": "Syila",
     "name": "Cerberus Equipment",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BOXrsxx,  Vaniat and  LingLuo",
-    "name": "More Practical Traits (Continued)",
     "steamId": null,
     "version": null
   },

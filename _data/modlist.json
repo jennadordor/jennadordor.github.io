@@ -33,13 +33,25 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.4.3"
+    "version": "6.1.5.1"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.0.5.0"
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - [SR]Faction Wars",
+    "steamId": "2586711059",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - [SR]Raid Extension",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "hodlhodl",
@@ -63,7 +75,19 @@
     "author": "SirRandoo",
     "name": "ToolkitPolls",
     "steamId": "2435838514",
-    "version": "1.1.1.0"
+    "version": "1.1.1.1"
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Raid Extension",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "UnlimitedHugs",
@@ -99,7 +123,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.3.838.0"
+    "version": "1.3.840.0"
   },
   {
     "author": "Oreno",
@@ -130,6 +154,12 @@
     "name": "War Crimes Expanded 2 Core",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.5.0"
   },
   {
     "author": "latta",
@@ -166,12 +196,6 @@
     "name": "Archotech++",
     "steamId": "2496279558",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Shadowrabbit",
-    "name": "[SR]Raid Extension",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "DimonSever000",
@@ -279,7 +303,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.3"
+    "version": "2.6.1.0"
   },
   {
     "author": "Kure",
@@ -310,6 +334,12 @@
     "name": "Alpha Animals",
     "steamId": "1541721856",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "explodoboy",
+    "name": "Science Never Stops: Ambition of the Cosmic",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "sdknm2",
@@ -741,7 +771,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.2.3.0"
+    "version": "3.3.3.0"
   },
   {
     "author": "NilchEi",
@@ -978,12 +1008,6 @@
     "version": "1.0.0.1"
   },
   {
-    "author": "Shadowrabbit",
-    "name": "[SR]Factional War",
-    "steamId": "2534328163",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Epicguru (James B)",
     "name": "RimForge",
     "steamId": "2505778174",
@@ -1006,6 +1030,12 @@
     "name": "MorrowRim - Trolls",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Djgamer2k",
+    "name": "Share The Load",
+    "steamId": "2576277142",
+    "version": "1.0.0.0"
   },
   {
     "author": "DimonSever000",
@@ -1710,12 +1740,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Djgamer2k",
-    "name": "Share The Load",
-    "steamId": "2576277142",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Martin Basterrechea",
     "name": "XenoDiversity Precept",
     "steamId": null,
@@ -2066,6 +2090,18 @@
   {
     "author": "Syila",
     "name": "Cerberus Equipment",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "Super Size Bed!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hen",
+    "name": "Style Revised - Animalist",
     "steamId": null,
     "version": null
   },

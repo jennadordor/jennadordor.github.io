@@ -474,7 +474,12 @@
 		"abr": "hostilecaravan",
 		"price": 700,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "immortality",
+		"price": 100000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 95
+	"total": 96
 }

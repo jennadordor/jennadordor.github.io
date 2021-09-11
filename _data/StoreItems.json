@@ -36738,6 +36738,654 @@
 		"category": "Misc",
 		"defname": "Zombgrella"
 	},
+	{
+		"abr": "organictea",
+		"price": 50,
+		"category": "Foods",
+		"defname": "CnT_OrganicTea"
+	},
+	{
+		"abr": "ambusherskill:poisontrap",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SkillOf_AmbusherPoisonTrap"
+	},
+	{
+		"abr": "ascendancysubsister",
+		"price": 31825,
+		"category": "Bionic",
+		"defname": "TE_AscendancySubsister"
+	},
+	{
+		"abr": "cake!",
+		"price": 33,
+		"category": "Meals",
+		"defname": "CnT_Cake"
+	},
+	{
+		"abr": "cake?",
+		"price": 108,
+		"category": "Meals",
+		"defname": "CnT_Cake-ish"
+	},
+	{
+		"abr": "chronomancerspell:unstablesingularity",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_UnstableSingularity"
+	},
+	{
+		"abr": "herbaltea",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "HerbalTea"
+	},
+	{
+		"abr": "psytrainer(cardiocrash)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_TE_CardioCrash"
+	},
+	{
+		"abr": "psytrainer(cryo)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_TE_Cryo"
+	},
+	{
+		"abr": "psytrainer(explode)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_TE_Explode"
+	},
+	{
+		"abr": "psytrainer(flare)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_TE_Flare"
+	},
+	{
+		"abr": "psytrainer(glacialpinhole)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_TE_GlacierPinhole"
+	},
+	{
+		"abr": "psytrainer(gravita)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_TE_Gravita"
+	},
+	{
+		"abr": "psytrainer(neurooverload)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_TE_NeuroOverload"
+	},
+	{
+		"abr": "psytrainer(quadramsprout)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_TE_QuadramSprout"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 25,
+		"category": "Manufactured",
+		"defname": "CnT_TeaLeaves"
+	},
+	{
+		"abr": "yorkshiretea",
+		"price": 50,
+		"category": "Foods",
+		"defname": "CnT_Tea"
+	},
+	{
+		"abr": "antkiller",
+		"price": 667,
+		"category": "Moosesian Weapons",
+		"defname": "WFF_Antkiller"
+	},
+	{
+		"abr": "arbormancerspell:bramblepatch",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SpellOf_BramblePatch"
+	},
+	{
+		"abr": "cannonartillery",
+		"price": 1108,
+		"category": "Security",
+		"defname": "MS_ArtilleryCannonBase12pdr"
+	},
+	{
+		"abr": "cannonballroundshot",
+		"price": 92,
+		"category": "Moosesian Cannonballs",
+		"defname": "MS_Cannonball_12pdr_Roundshot"
+	},
+	{
+		"abr": "firespitter",
+		"price": 392,
+		"category": "Moosesian Weapons",
+		"defname": "WFF_Firespitter"
+	},
+	{
+		"abr": "mercury",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "RF_Mercury"
+	},
+	{
+		"abr": "minerskill:collapsingcolumn",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_CollapsingColumn"
+	},
+	{
+		"abr": "royalbedfor10people",
+		"price": 5567,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedX"
+	},
+	{
+		"abr": "royalbedfor100people",
+		"price": 52150,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedZ"
+	},
+	{
+		"abr": "royalbedfor11people",
+		"price": 6092,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXI"
+	},
+	{
+		"abr": "royalbedfor12people",
+		"price": 6617,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXII"
+	},
+	{
+		"abr": "royalbedfor13people",
+		"price": 7150,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXIII"
+	},
+	{
+		"abr": "royalbedfor14people",
+		"price": 7675,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXIIII"
+	},
+	{
+		"abr": "royalbedfor15people",
+		"price": 8625,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXV"
+	},
+	{
+		"abr": "royalbedfor3people",
+		"price": 1858,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedIII"
+	},
+	{
+		"abr": "royalbedfor30people",
+		"price": 16817,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedXXX"
+	},
+	{
+		"abr": "royalbedfor4people",
+		"price": 2392,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedIIII"
+	},
+	{
+		"abr": "royalbedfor5people",
+		"price": 2917,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedV"
+	},
+	{
+		"abr": "royalbedfor6people",
+		"price": 3450,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedVI"
+	},
+	{
+		"abr": "royalbedfor7people",
+		"price": 3975,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedVII"
+	},
+	{
+		"abr": "royalbedfor8people",
+		"price": 4508,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedVIII"
+	},
+	{
+		"abr": "royalbedfor9people",
+		"price": 5033,
+		"category": "Furniture",
+		"defname": "SSB_SuperRoyalBedVIIII"
+	},
+	{
+		"abr": "troubadourskill:misery'send",
+		"price": 2000,
+		"category": "Scrolls",
+		"defname": "SkillOf_MiserysEnd"
+	},
+	{
+		"abr": "troubadourskill:swiftsong",
+		"price": 1833,
+		"category": "Scrolls",
+		"defname": "SkillOf_Swiftsong"
+	},
+	{
+		"abr": "brainstew",
+		"price": 20,
+		"category": "Drugs",
+		"defname": "IH_BrainStew"
+	},
+	{
+		"abr": "dragon(fire-drake)meat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LotRD_DragonFireDrakeRace"
+	},
+	{
+		"abr": "dragonhide",
+		"price": 27,
+		"category": "Leathers",
+		"defname": "LotRD_Leather_Dragon"
+	},
+	{
+		"abr": "dwarf",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "LotRD_DwarfStandardRace"
+	},
+	{
+		"abr": "dwarfbattleaxe",
+		"price": 692,
+		"category": "Melee weapons",
+		"defname": "LotRD_MeleeWeapon_AxeBattle"
+	},
+	{
+		"abr": "dwarfcrossbow",
+		"price": 238,
+		"category": "Ranged weapons",
+		"defname": "LotRD_Bow_DwarvenCross"
+	},
+	{
+		"abr": "dwarfdouble-beardedaxe",
+		"price": 775,
+		"category": "Melee weapons",
+		"defname": "LotRD_MeleeWeapon_AxeWarGimli"
+	},
+	{
+		"abr": "dwarfhornbow",
+		"price": 186,
+		"category": "Ranged weapons",
+		"defname": "LotRD_Bow_Dwarven"
+	},
+	{
+		"abr": "dwarfleather",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "LotRD_Leather_Dwarf"
+	},
+	{
+		"abr": "dwarfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LotRD_DwarfStandardRace"
+	},
+	{
+		"abr": "dwarfwalkingaxe",
+		"price": 642,
+		"category": "Melee weapons",
+		"defname": "LotRD_MeleeWeapon_AxeGimliWalking"
+	},
+	{
+		"abr": "dwarf-king'scrown",
+		"price": 1775,
+		"category": "Headgear",
+		"defname": "LotRD_DwarfApparel_Crown"
+	},
+	{
+		"abr": "dwarf-shield",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "LotRD_DwarfStandardShield"
+	},
+	{
+		"abr": "dwarf-shield(green)",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "LotRD_DwarfStandardShieldThree"
+	},
+	{
+		"abr": "dwarf-shield(heraldry)",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "LotRD_DwarfStandardShieldFour"
+	},
+	{
+		"abr": "dwarf-shield(knotted)",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "LotRD_DwarfStandardShieldTwo"
+	},
+	{
+		"abr": "dwarf-shield(noble)",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "LotRD_DwarfStandardShieldFive"
+	},
+	{
+		"abr": "dwarf-spear",
+		"price": 467,
+		"category": "Melee weapons",
+		"defname": "LotRD_MeleeWeapon_DwarfSpear"
+	},
+	{
+		"abr": "dwarf-sword",
+		"price": 575,
+		"category": "Melee weapons",
+		"defname": "LotRD_MeleeWeapon_DwarfSwordBandit"
+	},
+	{
+		"abr": "dwarvenbrazierbox",
+		"price": 68,
+		"category": "Furniture",
+		"defname": "LotRD_Brazier"
+	},
+	{
+		"abr": "dwarvencandelabra",
+		"price": 243,
+		"category": "Furniture",
+		"defname": "LotRD_DwarvenCandelabra"
+	},
+	{
+		"abr": "dwarvenchandelier",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "LotRD_Chandelier"
+	},
+	{
+		"abr": "dwarvendresser",
+		"price": 213,
+		"category": "Furniture",
+		"defname": "LotRD_Dresser"
+	},
+	{
+		"abr": "dwarvenendtable",
+		"price": 141,
+		"category": "Furniture",
+		"defname": "LotRD_EndTable"
+	},
+	{
+		"abr": "dwarvengametable",
+		"price": 542,
+		"category": "Dwarven",
+		"defname": "LotRD_GameTable"
+	},
+	{
+		"abr": "dwarvenithildinlamp",
+		"price": 263,
+		"category": "Furniture",
+		"defname": "LotRD_DwarvenStreetLamp"
+	},
+	{
+		"abr": "dwarvenithildinwalllight",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "LotRD_DwarvenWallLight"
+	},
+	{
+		"abr": "dwarvenmead",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "LotRD_Mead"
+	},
+	{
+		"abr": "dwarvenstool",
+		"price": 106,
+		"category": "Furniture",
+		"defname": "LotRD_Stool"
+	},
+	{
+		"abr": "dwarventable(1x1)",
+		"price": 141,
+		"category": "Furniture",
+		"defname": "LotRD_Table1x1c"
+	},
+	{
+		"abr": "dwarventable(1x2)",
+		"price": 158,
+		"category": "Furniture",
+		"defname": "LotRD_Table1x2c"
+	},
+	{
+		"abr": "dwarventhrone",
+		"price": 3358,
+		"category": "Furniture",
+		"defname": "LotRD_DwarvenThrone"
+	},
+	{
+		"abr": "dwarventunic",
+		"price": 199,
+		"category": "Apparel",
+		"defname": "LotRD_DwarfApparel_Tunic"
+	},
+	{
+		"abr": "earthbread",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "LotRD_RawEarthBread"
+	},
+	{
+		"abr": "elf",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "LotRE_ElfStandardRace"
+	},
+	{
+		"abr": "elfbuckler",
+		"price": 212,
+		"category": "Melee weapons",
+		"defname": "LotRE_ElvenShieldBuckler"
+	},
+	{
+		"abr": "elfcrown",
+		"price": 500,
+		"category": "Headgear",
+		"defname": "LotRE_ElfApparel_WoodElfCrown"
+	},
+	{
+		"abr": "elfdoll(dwarfmake)",
+		"price": 108,
+		"category": "Items",
+		"defname": "LotRD_DwarfElfToy"
+	},
+	{
+		"abr": "elfleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "LotRE_Leather_Elf"
+	},
+	{
+		"abr": "elflhang",
+		"price": 1125,
+		"category": "Melee weapons",
+		"defname": "LotRE_MeleeWeapon_Lhang"
+	},
+	{
+		"abr": "elfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LotRE_ElfStandardRace"
+	},
+	{
+		"abr": "elfsaber",
+		"price": 867,
+		"category": "Melee weapons",
+		"defname": "LotRE_MeleeWeapon_Saber"
+	},
+	{
+		"abr": "elfwhiteknives",
+		"price": 775,
+		"category": "Melee weapons",
+		"defname": "LotRE_MeleeWeapon_WhiteKnives"
+	},
+	{
+		"abr": "elf-cape(coastal)",
+		"price": 191,
+		"category": "Apparel",
+		"defname": "LotRE_Apparel_CapeCoastal"
+	},
+	{
+		"abr": "elf-cape(woodland)",
+		"price": 191,
+		"category": "Apparel",
+		"defname": "LotRE_Apparel_Cape"
+	},
+	{
+		"abr": "elf-robe(coastal)",
+		"price": 245,
+		"category": "Apparel",
+		"defname": "LotRE_ElfApparel_SimpleRobeSea"
+	},
+	{
+		"abr": "elf-robe(noble)",
+		"price": 245,
+		"category": "Apparel",
+		"defname": "LotRE_ElfApparel_SimpleRobeHigh"
+	},
+	{
+		"abr": "elf-robe(woodland)",
+		"price": 245,
+		"category": "Apparel",
+		"defname": "LotRE_ElfApparel_SimpleRobeWoodland"
+	},
+	{
+		"abr": "elvencandelabra",
+		"price": 209,
+		"category": "Furniture",
+		"defname": "LotRE_ElvenCandelabra"
+	},
+	{
+		"abr": "elvenchair",
+		"price": 236,
+		"category": "Furniture",
+		"defname": "LotRE_Chair"
+	},
+	{
+		"abr": "elvenloungebed",
+		"price": 105,
+		"category": "Furniture",
+		"defname": "LotRE_ElvenBed"
+	},
+	{
+		"abr": "elvenroyalbed",
+		"price": 1225,
+		"category": "Furniture",
+		"defname": "LotRE_ElvenRoyalBed"
+	},
+	{
+		"abr": "elventable(2x2)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "LotRE_ElvishTable2x2c"
+	},
+	{
+		"abr": "elvishbread",
+		"price": 33,
+		"category": "Meals",
+		"defname": "LotRE_ElvishBread"
+	},
+	{
+		"abr": "falathrim-elfarmor",
+		"price": 287,
+		"category": "Apparel",
+		"defname": "LotRE_ElfApparel_BattleArmorSea"
+	},
+	{
+		"abr": "falathrim-elfhelmet",
+		"price": 86,
+		"category": "Headgear",
+		"defname": "LotRE_ElfApparel_BattleHelmetSea"
+	},
+	{
+		"abr": "fermentingbarrel(mead)",
+		"price": 95,
+		"category": "Production",
+		"defname": "LotRD_FermentingBarrel"
+	},
+	{
+		"abr": "galadhrim-elfarmor",
+		"price": 867,
+		"category": "Apparel",
+		"defname": "LotRE_ElfApparel_BattleArmorTree"
+	},
+	{
+		"abr": "galadhrim-elfbow",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "LotRE_Bow_Galadhrim"
+	},
+	{
+		"abr": "galadhrim-elfhelmet",
+		"price": 350,
+		"category": "Headgear",
+		"defname": "LotRE_ElfApparel_BattleHelmetTree"
+	},
+	{
+		"abr": "giantboar",
+		"price": 350,
+		"category": "Animals",
+		"defname": "LotRD_GiantBoarRace"
+	},
+	{
+		"abr": "half-elf",
+		"price": 2083,
+		"category": "Animal",
+		"defname": "LotRE_ElfStandardRaceHalf"
+	},
+	{
+		"abr": "half-elfleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "LotRE_Leather_ElfHalf"
+	},
+	{
+		"abr": "half-elfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LotRE_ElfStandardRaceHalf"
+	},
+	{
+		"abr": "hill-dwarfarmor",
+		"price": 1017,
+		"category": "Apparel",
+		"defname": "LotRD_DwarfApparel_IronHillArmor"
+	},
+	{
+		"abr": "hill-dwarfhelmet",
+		"price": 942,
+		"category": "Headgear",
+		"defname": "LotRD_DwarfApparel_IronHillHelmet"
+	},
+	{
+		"abr": "hill-dwarflordhelm",
+		"price": 942,
+		"category": "Headgear",
+		"defname": "LotRD_DwarfApparel_IronHillHelmetKing"
+	}
 	],
-	"total": 6143
+	"total": 6275
 }

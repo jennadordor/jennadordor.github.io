@@ -6,16 +6,16 @@
     "version": "1.1.1.0"
   },
   {
-    "author": "Samboy063",
-    "name": "BetterLoading",
-    "steamId": "1999454301",
-    "version": "3.2.0.1"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Visual Exceptions",
     "steamId": "2538411704",
     "version": "1.0.4.0"
+  },
+  {
+    "author": "Samboy063",
+    "name": "BetterLoading",
+    "steamId": "1999454301",
+    "version": "3.2.0.1"
   },
   {
     "author": "hodlhodl",
@@ -36,16 +36,34 @@
     "version": "6.1.5.1"
   },
   {
+    "author": "Andreas Pardeike and  BleuSquid",
+    "name": "Puppeteer",
+    "steamId": "2594873651",
+    "version": "1.6.0.0"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.0.5.0"
   },
   {
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": "2534328163",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "saschahi",
     "name": "ToolkitAddon - [SR]Faction Wars",
-    "steamId": "2586711059",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Raid Extension",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "saschahi",
@@ -75,19 +93,7 @@
     "author": "SirRandoo",
     "name": "ToolkitPolls",
     "steamId": "2435838514",
-    "version": "1.1.1.1"
-  },
-  {
-    "author": "Shadowrabbit",
-    "name": "[SR]Factional War",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Shadowrabbit",
-    "name": "[SR]Raid Extension",
-    "steamId": null,
-    "version": null
+    "version": "1.1.1.2"
   },
   {
     "author": "UnlimitedHugs",
@@ -123,7 +129,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.3.840.0"
+    "version": "1.3.841.0"
   },
   {
     "author": "Oreno",
@@ -771,7 +777,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.3.3.0"
+    "version": "3.3.5.0"
   },
   {
     "author": "NilchEi",
@@ -1030,12 +1036,6 @@
     "name": "MorrowRim - Trolls",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Djgamer2k",
-    "name": "Share The Load",
-    "steamId": "2576277142",
-    "version": "1.0.0.0"
   },
   {
     "author": "DimonSever000",
@@ -1554,6 +1554,12 @@
     "version": null
   },
   {
+    "author": "Isuzuki",
+    "name": "Traits Excel",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Chicken Plucker and  Taranchuk",
     "name": "[RH2] Hand-To-Hand",
     "steamId": "2556532381",
@@ -1772,12 +1778,6 @@
   {
     "author": "Fuglypump",
     "name": "Fallout Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Waffel F.",
-    "name": "Moosesian race",
     "steamId": null,
     "version": null
   },
@@ -2016,12 +2016,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "AobaKuma",
-    "name": "Demi-human Slavery",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
@@ -2046,6 +2040,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Scruffy",
+    "name": "Cake, Tea, and War Crimes",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AUTOMATIC and  Oracle of Thessia",
     "name": "Rim-Effect: Themis Traders",
     "steamId": "2488461271",
@@ -2068,6 +2068,12 @@
     "name": "Sometimes Raids Go Wrong",
     "steamId": "1551336515",
     "version": "1.0.7895.35757"
+  },
+  {
+    "author": "legodude17 and  Tyrannical_Elmo",
+    "name": "Ascendancy",
+    "steamId": "2587181966",
+    "version": "1.0.0.0"
   },
   {
     "author": "avilmask",
@@ -2100,6 +2106,18 @@
     "version": null
   },
   {
+    "author": "DrEnzyme",
+    "name": "Herbal Tea",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "Packaged Pizzas",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Hen",
     "name": "Style Revised - Animalist",
     "steamId": null,
@@ -2109,7 +2127,7 @@
     "author": "Jecrell and lbmaian",
     "name": "Doors Expanded",
     "steamId": "1316188771",
-    "version": "1.4.0.0"
+    "version": "1.4.0.2"
   },
   {
     "author": "Fluffy",
@@ -2137,7 +2155,7 @@
   },
   {
     "author": "Troopersmith1 - Helixien - Xen",
-    "name": "RimEffect - Asari of the Rims Continued [1.1][1.2]",
+    "name": "RimEffect - Asari of the Rims Continued [1.1+]",
     "steamId": null,
     "version": null
   },
@@ -2264,6 +2282,42 @@
   {
     "author": "Aperture staff",
     "name": "Dragonian Race Apparel Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Waffel F.",
+    "name": "Moosesian race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Hobbits",
+    "steamId": "1400227853",
+    "version": "1.22.0.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Dwarves",
+    "steamId": "1400238872",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Elves",
+    "steamId": "1400234784",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "fridgeBaron",
+    "name": "Immortals",
+    "steamId": "1984905966",
+    "version": "0.0.2.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Demi-human Slavery",
     "steamId": null,
     "version": null
   },

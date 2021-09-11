@@ -62393,6 +62393,1452 @@
       "addPrice": 1500,
       "removePrice": 1500,
       "degree": 4
+    },
+    {
+      "description": "Blessed by Archotect to carry its will. These rare beings appear at crucial moments in a world's timeline. It is as much as a blessing as it is a curse.",
+      "stats": [
+        "+250% psychic sensitivity",
+        "+100.00% social impact",
+        "+50% global work speed",
+        "+1.50 neural heat recovery rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ascendancy",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+250% psychic sensitivity",
+          "+100.00% social impact",
+          "+50% global work speed",
+          "+1.50 neural heat recovery rate"
+        ]
+      },
+      "defName": "TE_Ascendant",
+      "name": "ascendant",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Golemancers prefer to weave their magic through powerful runes and sigils that are able to transfer purpose into an object. Timmy is no exception; he can create runes that enhance basic mechanics, alter chemicals in biological matter, and animate mundae material into life-like, monstrous creatures. Golemancer's are most effective when channeling their magic through symbols and find it more difficult to convert mana to energy directly but are also have higher arcane resistances. Most golemancer's tend to find rocks more interesting than people and have little concern for cleanliness.",
+      "stats": [
+        "+0.5 filth rate",
+        "-20.00% social impact",
+        "-20.00% negotiation ability",
+        "-0.20 move speed",
+        "+10% global work speed",
+        "+20% smelting speed",
+        "+20% construction speed"
+      ],
+      "conflicts": [
+        "firemage",
+        "icemage",
+        "lightningmage",
+        "arcanemage",
+        "magicallygifted",
+        "physicallyadept",
+        "paladin",
+        "gladiator",
+        "sharpshooter",
+        "sniper",
+        "mastersniper",
+        "legendarysniper",
+        "summoner",
+        "druid",
+        "bladesman",
+        "blademaster",
+        "bladedancer",
+        "legendarybladedancer",
+        "necromancer",
+        "priest",
+        "woodsman",
+        "hunter",
+        "scout",
+        "ranger",
+        "lich",
+        "entertainer",
+        "performer",
+        "minstrel",
+        "bard",
+        "faceless",
+        "succubus",
+        "warlock",
+        "psionic",
+        "geomancer",
+        "technomancer",
+        "bloodmage",
+        "deathknight",
+        "enchanter",
+        "monk",
+        "wanderer",
+        "wayfarer",
+        "chronomancer",
+        "supersoldier",
+        "commander",
+        "chaosmage",
+        "shadow",
+        "brightmage",
+        "shaman"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "A RimWorld of Magic",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "firemage",
+          "icemage",
+          "lightningmage",
+          "arcanemage",
+          "magicallygifted",
+          "physicallyadept",
+          "paladin",
+          "gladiator",
+          "sharpshooter",
+          "sniper",
+          "mastersniper",
+          "legendarysniper",
+          "summoner",
+          "druid",
+          "bladesman",
+          "blademaster",
+          "bladedancer",
+          "legendarybladedancer",
+          "necromancer",
+          "priest",
+          "woodsman",
+          "hunter",
+          "scout",
+          "ranger",
+          "lich",
+          "entertainer",
+          "performer",
+          "minstrel",
+          "bard",
+          "faceless",
+          "succubus",
+          "warlock",
+          "psionic",
+          "geomancer",
+          "technomancer",
+          "bloodmage",
+          "deathknight",
+          "enchanter",
+          "monk",
+          "wanderer",
+          "wayfarer",
+          "chronomancer",
+          "supersoldier",
+          "commander",
+          "chaosmage",
+          "shadow",
+          "brightmage",
+          "shaman"
+        ],
+        "stats": [
+          "+0.5 filth rate",
+          "-20.00% social impact",
+          "-20.00% negotiation ability",
+          "-0.20 move speed",
+          "+10% global work speed",
+          "+20% smelting speed",
+          "+20% construction speed"
+        ]
+      },
+      "defName": "TM_Golemancer",
+      "name": "golemancer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is absolutely gorgeous. Even at first glance, people fall in love with the sight of him. However, this overwhelming beauty may allow jealousy and envy to overcome him. Since they hate ruining their look, they can't take much of a beating before breaking down.",
+      "stats": [
+        "+6% mental break threshold",
+        "+3.0 beauty"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly"
+        ],
+        "stats": [
+          "+6% mental break threshold",
+          "+3.0 beauty"
+        ]
+      },
+      "defName": "BeautyExcel",
+      "name": "gorgeous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is absolutely hideous. his face resembles a melted blobfish which got crushed by a meat tenderizer. Most others would rather sniff cow dung within 5 centimeters of it than look at him. The harsh amount of hate they've received over the years has hardened their emotions, and made them tougher.",
+      "stats": [
+        "-6% mental break threshold",
+        "-3.0 beauty",
+        "-10% incoming damage multiplier"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly"
+        ],
+        "stats": [
+          "-6% mental break threshold",
+          "-3.0 beauty",
+          "-10% incoming damage multiplier"
+        ]
+      },
+      "defName": "BeautyExcel",
+      "name": "hideous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -3
+    },
+    {
+      "description": "Timmy easily completes any task they are assigned to at an efficient rate but seems to learn skills a lot slower compared to others.",
+      "stats": [
+        "+50% global work speed",
+        "-20% global learning factor"
+      ],
+      "conflicts": [
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful"
+        ],
+        "stats": [
+          "+50% global work speed",
+          "-20% global learning factor"
+        ]
+      },
+      "defName": "IndustriousnessExcel",
+      "name": "hyperfocused",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy has trouble completing any task they are assigned and will take significantly longer to do so, however, learns at a quicker rate than most others.",
+      "stats": [
+        "-50% global work speed",
+        "+20% global learning factor"
+      ],
+      "conflicts": [
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful"
+        ],
+        "stats": [
+          "-50% global work speed",
+          "+20% global learning factor"
+        ]
+      },
+      "defName": "IndustriousnessExcel",
+      "name": "lethargic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -3
+    },
+    {
+      "description": "Timmy is a speed demon. They move at an extremely fast pace and leaves everyone else in the dust.",
+      "stats": [
+        "+0.60 move speed"
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger"
+        ],
+        "stats": [
+          "+0.60 move speed"
+        ]
+      },
+      "defName": "SpeedOffsetExcel",
+      "name": "sprinter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is a marksman, hitting most shots with ease. They rarely miss, but take quite an extended amount of time to aim their shots.",
+      "stats": [
+        "+50% aiming time",
+        "+10.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler",
+        "carefulshooter",
+        "trigger-happy",
+        "deadshot"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler",
+          "carefulshooter",
+          "trigger-happy",
+          "deadshot"
+        ],
+        "stats": [
+          "+50% aiming time",
+          "+10.0 shooting accuracy"
+        ]
+      },
+      "defName": "ShootingAccuracyExcel",
+      "name": "deadeye",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is as trigger happy as it can get. Whilst they can fire at incredible rates, they don't seem to hit many of their shots.",
+      "stats": [
+        "-80% aiming time",
+        "-10.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler",
+        "carefulshooter",
+        "trigger-happy",
+        "deadshot"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler",
+          "carefulshooter",
+          "trigger-happy",
+          "deadshot"
+        ],
+        "stats": [
+          "-80% aiming time",
+          "-10.0 shooting accuracy"
+        ]
+      },
+      "defName": "ShootingAccuracyExcel",
+      "name": "gun-ho",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy is a natural ranged fighter. They love using ranged weaponry and are skilled in doing so. However, they will be unhappy if holding a melee weapon.",
+      "stats": [
+        "+3.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "demolitionsexpert",
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "demolitionsexpert",
+          "brawler"
+        ],
+        "stats": [
+          "+3.0 shooting accuracy"
+        ]
+      },
+      "defName": "Archer",
+      "name": "archer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy adores explosions. They love handling bombs, molotovs, and similar explosives. However, if they are told to carry a different weapon, they will be very upset.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "ekrixiphobia",
+        "archer",
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ekrixiphobia",
+          "archer",
+          "brawler"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "DemoExpert",
+      "name": "demolitionsexpert",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has an unnatural ability to extract precious minerals from ores. They will dig up more yield from every ore but at a slower rate.",
+      "stats": [
+        "+35% mining yield",
+        "-20% mining speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+35% mining yield",
+          "-20% mining speed"
+        ]
+      },
+      "defName": "extraction",
+      "name": "skilledextractor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy knows where to mine to get the most ore. They will dig up more yield from every ore but at a slower rate.",
+      "stats": [
+        "+20% mining yield",
+        "-10% mining speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% mining yield",
+          "-10% mining speed"
+        ]
+      },
+      "defName": "extraction",
+      "name": "extractor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is a speedy, albeit rough miner. They will break ores and stone quicker, but ore gets lost in the process.",
+      "stats": [
+        "-20% mining yield",
+        "+10% mining speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20% mining yield",
+          "+10% mining speed"
+        ]
+      },
+      "defName": "extraction",
+      "name": "clumsyminer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy is very impatient when it comes to mining. They will break ores and stone much quicker, but more ore gets lost in the process.",
+      "stats": [
+        "-35% mining yield",
+        "+20% mining speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-35% mining yield",
+          "+20% mining speed"
+        ]
+      },
+      "defName": "extraction",
+      "name": "impatientminer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy is absolutely terrified of explosive weapons. If they are holding an explosive weapon, it will drive them mad with fright.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "demolitionsexpert"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "demolitionsexpert"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "anxietyBomb",
+      "name": "ekrixiphobia",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a natural plant worker. They know their way around gardens and farms alike. Taking their time, they can yield a lot more produce out of plants.",
+      "stats": [
+        "-35% plant work speed",
+        "+20% plant harvest yield"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-35% plant work speed",
+          "+20% plant harvest yield"
+        ]
+      },
+      "defName": "PlantTouch",
+      "name": "greentouch",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "While they have the right intentions, Timmy just isn't the great farmer they think they are. They speed through planting and harvesting much quicker than others, but leave behind a lot of produce.",
+      "stats": [
+        "+35% plant work speed",
+        "-20% plant harvest yield"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+35% plant work speed",
+          "-20% plant harvest yield"
+        ]
+      },
+      "defName": "PlantTouch",
+      "name": "browntouch",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has everything together most of the time and uses that ability to work much faster.",
+      "stats": [
+        "+40% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+40% global work speed"
+        ]
+      },
+      "defName": "Organization",
+      "name": "veryorganized",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is usually organized when it comes to working, and will work a little faster than others.",
+      "stats": [
+        "+20% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20% global work speed"
+        ]
+      },
+      "defName": "Organization",
+      "name": "organized",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy loses focus and tools often which leads to their disorganization. They will take longer to finish their tasks.",
+      "stats": [
+        "-20% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-20% global work speed"
+        ]
+      },
+      "defName": "Organization",
+      "name": "disorganized",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy can barely keep their eyes on their task, and loses the tools for their work relatively often. This leads to a large decrease in productivity.",
+      "stats": [
+        "-40% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-40% global work speed"
+        ]
+      },
+      "defName": "Organization",
+      "name": "verydisorganized",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy knows how to prepare food properly, and has a significantly decreased chance of creating poisoned meals regardless of cooking area.",
+      "stats": [
+        "-80.00% food poison chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-80.00% food poison chance"
+        ]
+      },
+      "defName": "NaturalCook",
+      "name": "naturalcook",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a knack for cutting in the right areas. If they are assigned to butcher any creature, they will do it with precision.",
+      "stats": [
+        "+50% butchery efficiency",
+        "+30% butchery speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% butchery efficiency",
+          "+30% butchery speed"
+        ]
+      },
+      "defName": "Butcher",
+      "name": "masterbutcher",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy isn't a rookie to butchering meat and can save more flesh while butchering.",
+      "stats": [
+        "+25% butchery efficiency",
+        "+15% butchery speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% butchery efficiency",
+          "+15% butchery speed"
+        ]
+      },
+      "defName": "Butcher",
+      "name": "butcher",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has very shaky hands, and can't butcher meat very easily without guidance.",
+      "stats": [
+        "-25% butchery efficiency",
+        "-15% butchery speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-25% butchery efficiency",
+          "-15% butchery speed"
+        ]
+      },
+      "defName": "Butcher",
+      "name": "shakyhands",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy can't butcher meat without messing something up, and wastes a lot of valuable flesh.",
+      "stats": [
+        "-50% butchery efficiency",
+        "-30% butchery speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% butchery efficiency",
+          "-30% butchery speed"
+        ]
+      },
+      "defName": "Butcher",
+      "name": "imprecisebutcher",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy is a grease monkey. It's almost as if they were born to handle metal and electronics with ease.",
+      "stats": [
+        "+50% mechanoid shredding efficiency",
+        "+30% mechanoid shredding speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% mechanoid shredding efficiency",
+          "+30% mechanoid shredding speed"
+        ]
+      },
+      "defName": "Mechanic",
+      "name": "greasemonkey",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy isn't a newbie to disassembling robots. They are a natural at breaking down old junk.",
+      "stats": [
+        "+25% mechanoid shredding efficiency",
+        "+15% mechanoid shredding speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% mechanoid shredding efficiency",
+          "+15% mechanoid shredding speed"
+        ]
+      },
+      "defName": "Mechanic",
+      "name": "mechanic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is very faulty when it comes to disassembling robots. They'll waste precious resources when butchering mechanoids.",
+      "stats": [
+        "-25% mechanoid shredding efficiency",
+        "-15% mechanoid shredding speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-25% mechanoid shredding efficiency",
+          "-15% mechanoid shredding speed"
+        ]
+      },
+      "defName": "Mechanic",
+      "name": "faultymechanic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy can't butcher mechanoids without messing something up, and wastes a lot of valuable resources.",
+      "stats": [
+        "-50% mechanoid shredding efficiency",
+        "-30% mechanoid shredding speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% mechanoid shredding efficiency",
+          "-30% mechanoid shredding speed"
+        ]
+      },
+      "defName": "Mechanic",
+      "name": "unskilledmechanic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy is very stealthy and has a much easier time keeping in the shadows while hunting.",
+      "stats": [
+        "+50% hunting stealth"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% hunting stealth"
+        ]
+      },
+      "defName": "Stealth",
+      "name": "verystealthy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a stealthy individual, who can sneak around wildlife easier than others can.",
+      "stats": [
+        "+25% hunting stealth"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% hunting stealth"
+        ]
+      },
+      "defName": "Stealth",
+      "name": "stealthy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is a professional medic. They can patch wounds that would normally kill others at surprising rates.",
+      "stats": [
+        "+50% medical tend speed",
+        "+30% medical tend quality"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% medical tend speed",
+          "+30% medical tend quality"
+        ]
+      },
+      "defName": "Medic",
+      "name": "professionalmedic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a doctor. They'll fix up any scratches or bruises faster than normal.",
+      "stats": [
+        "+25% medical tend speed",
+        "+15% medical tend quality"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% medical tend speed",
+          "+15% medical tend quality"
+        ]
+      },
+      "defName": "Medic",
+      "name": "doctor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has a hard time applying the right treatment to patients, and thus is slower at tending.",
+      "stats": [
+        "-25% medical tend speed",
+        "-15% medical tend quality"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-25% medical tend speed",
+          "-15% medical tend quality"
+        ]
+      },
+      "defName": "Medic",
+      "name": "unskilleddoctor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy can barely wrap a bandage around their own arm, let alone anyone elses.",
+      "stats": [
+        "-50% medical tend speed",
+        "-30% medical tend quality"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% medical tend speed",
+          "-30% medical tend quality"
+        ]
+      },
+      "defName": "Medic",
+      "name": "terriblemedic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
+    },
+    {
+      "description": "Timmy is a master surgeon. Bionics, replacement parts, organ transplants, whatever needs done will be done.",
+      "stats": [
+        "+50% medical operation speed",
+        "+30% medical surgery success chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% medical operation speed",
+          "+30% medical surgery success chance"
+        ]
+      },
+      "defName": "Surgeon",
+      "name": "mastersurgeon",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a skilled surgeon. They'll do surgery jobs a lot quicker than others.",
+      "stats": [
+        "+25% medical operation speed",
+        "+15% medical surgery success chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+25% medical operation speed",
+          "+15% medical surgery success chance"
+        ]
+      },
+      "defName": "Surgeon",
+      "name": "skilledsurgeon",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has a hard time cutting into human flesh to replace or add parts, it almost makes them sick.",
+      "stats": [
+        "-25% medical operation speed",
+        "-15% medical surgery success chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-25% medical operation speed",
+          "-15% medical surgery success chance"
+        ]
+      },
+      "defName": "Surgeon",
+      "name": "unskilledsurgeon",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy can barely pick up a scalpel to even start a surgery job, and has a hard time using the tools.",
+      "stats": [
+        "-50% medical operation speed",
+        "-30% medical surgery success chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Traits Excel",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% medical operation speed",
+          "-30% medical surgery success chance"
+        ]
+      },
+      "defName": "Surgeon",
+      "name": "terriblesurgeon",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
     }
   ],
   "races": [
@@ -63696,13 +65142,14 @@
           "+4.62 Move speed",
           "+6.0C Minimum comfortable temperature",
           "+28.0C Maximum comfortable temperature",
-          "+25 Leather amount"
+          "+25 Leather amount",
+          "+5 Honor value"
         ],
-        "mod": "RimEffect - Asari of the Rims Continued [1.1][1.2]",
+        "mod": "RimEffect - Asari of the Rims Continued [1.1+]",
         "karmaType": null,
         "customName": false
       },
-      "description": "A mono-gender race, the asari are distinctly feminine in appearance and possess maternal instincts. Their unique physiology, expressed in a millennium-long lifespan and the ability to reproduce with a partner of any gender or species, gives them a conservative yet convivial attitude toward other races.\n\n<i><color=#66E0E4FF>RimEffect - Asari of the Rims Continued (1.1)(1.2)</color></i>",
+      "description": "A mono-gender race, the asari are distinctly feminine in appearance and possess maternal instincts. Their unique physiology, expressed in a millennium-long lifespan and the ability to reproduce with a partner of any gender or species, gives them a conservative yet convivial attitude toward other races.\n\n<i><color=#66E0E4FF>RimEffect - Asari of the Rims Continued (1.1+)</color></i>",
       "defName": "Alien_Asari",
       "enabled": true,
       "name": "asari",
@@ -63897,6 +65344,91 @@
       "enabled": true,
       "name": "vatdrone",
       "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+42.00 Mass",
+          "+100% Flammability",
+          "+45 Carrying capacity",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Lord of the Rims - Hobbits",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Lives to be 100 years old. Loves to eat, drink, be merry, and sometimes, just sometimes, go on adventures.\n\n<i><color=#66E0E4FF>Lord of the Rims - Hobbits</color></i>",
+      "defName": "LotRH_HobbitStandardRace",
+      "enabled": true,
+      "name": "hobbit",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Lord of the Rims - Dwarves",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Lives for 250 years. Loves to mine, craft, and make friends.\n\n<i><color=#66E0E4FF>Lord of the Rims - Dwarves</color></i>",
+      "defName": "LotRD_DwarfStandardRace",
+      "enabled": true,
+      "name": "dwarf",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Lord of the Rims - Elves",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Wise and immortal.\n\n<i><color=#66E0E4FF>Lord of the Rims - Elves</color></i>",
+      "defName": "LotRE_ElfStandardRace",
+      "enabled": true,
+      "name": "elf",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1250 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Lord of the Rims - Elves",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Those born between the world of immortality and mortality.\n\n<i><color=#66E0E4FF>Lord of the Rims - Elves</color></i>",
+      "defName": "LotRE_ElfStandardRaceHalf",
+      "enabled": true,
+      "name": "half-elf",
+      "price": 2083
     }
   ]
 }

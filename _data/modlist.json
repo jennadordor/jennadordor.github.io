@@ -39,7 +39,7 @@
     "author": "Andreas Pardeike and  BleuSquid",
     "name": "Puppeteer",
     "steamId": "2594873651",
-    "version": "1.6.0.0"
+    "version": "1.6.1.0"
   },
   {
     "author": "SirRandoo",
@@ -129,7 +129,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.3.841.0"
+    "version": "1.3.842.0"
   },
   {
     "author": "Oreno",
@@ -156,6 +156,36 @@
     "version": "1.3.1"
   },
   {
+    "author": "SickBoyWi",
+    "name": "Rimhammer - The End Times - WITH GUNS!!",
+    "steamId": "2008718043",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SickBoyWI",
+    "name": "Rimhammer - The End Times - Beastmen",
+    "steamId": "2020384947",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SickBoyWI",
+    "name": "Rimhammer - The End Times - Magic",
+    "steamId": "2020384442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SickBoyWi",
+    "name": "Rimhammer - The End Times",
+    "steamId": "2007275942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SickBoyWI",
+    "name": "Rimhammer - The End Times - Empire",
+    "steamId": "2374143623",
+    "version": "1.1.0.0"
+  },
+  {
     "author": "Crustypeanut",
     "name": "War Crimes Expanded 2 Core",
     "steamId": null,
@@ -176,12 +206,6 @@
   {
     "author": "Vanilla Expanded Team and Co.",
     "name": "Rim-Effect: Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
     "steamId": null,
     "version": null
   },
@@ -312,6 +336,12 @@
     "version": "2.6.1.0"
   },
   {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.6.1.2"
+  },
+  {
     "author": "Kure",
     "name": "Kure's Rimworld of Magic Class Expansion Pack",
     "steamId": null,
@@ -322,6 +352,12 @@
     "name": "Animals Logic",
     "steamId": "1098354593",
     "version": "1.0.7856.17248"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cults",
+    "steamId": "815039373",
+    "version": "1.0.23.4"
   },
   {
     "author": "Wyatt Mingji Lim aka WalkingProblem",
@@ -1038,12 +1074,6 @@
     "version": null
   },
   {
-    "author": "DimonSever000",
-    "name": "Darknet+",
-    "steamId": "2581753854",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Tyrannical_Elmo",
     "name": "Industrial Melee",
     "steamId": null,
@@ -1071,12 +1101,6 @@
     "author": "Helixien,  Taranchuk,  Saakra,  ISOREX and  OskarPotocki",
     "name": "Ultratech: Altered Carbon Remastered",
     "steamId": "2196278117",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nolabritt,  RadZerp and  Sophist88",
-    "name": "RimNauts",
-    "steamId": "2198026141",
     "version": "1.0.0.0"
   },
   {
@@ -1118,8 +1142,8 @@
   {
     "author": "Neceros",
     "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oracle of Thessia",
@@ -1668,6 +1692,12 @@
     "version": null
   },
   {
+    "author": "Spencer7w",
+    "name": "Airsupport (Warhammer 40k)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kentington",
     "name": "Save/Load Ideos",
     "steamId": null,
@@ -1740,6 +1770,12 @@
     "version": "1.0.7393.34550"
   },
   {
+    "author": "Ryflamer",
+    "name": "[Ry]Rimcraft Metals",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Neronix17",
     "name": "[O21] Penned Animal Config",
     "steamId": "2557345722",
@@ -1755,6 +1791,12 @@
     "author": "Cabbage",
     "name": "RimCities",
     "steamId": "1775170117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "More Steel",
+    "steamId": "1245219876",
     "version": "1.0.0.0"
   },
   {
@@ -1814,12 +1856,6 @@
   {
     "author": "Andreas Pardeike",
     "name": "Just Ignore Me Passing",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "K",
-    "name": "GlitterNet",
     "steamId": null,
     "version": null
   },
@@ -1890,6 +1926,12 @@
     "version": null
   },
   {
+    "author": "Spanky_H",
+    "name": "Bun Race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Epicguru (James B)",
     "name": "Antimatter Annihilation",
     "steamId": "2113692574",
@@ -1912,6 +1954,42 @@
     "name": "EvolvedOrgansRedux",
     "steamId": "2424381146",
     "version": "2.0.1"
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Rimcraft",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Rimcraft Allied Races",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Rimcraft Factions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Rimcraft Tribal Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Rimcraft Weaponry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Rimcraft Weaponry Patch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Captain Muscles (Nathan Harbour)",
@@ -2178,8 +2256,20 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cosmic Horrors",
+    "steamId": "765890823",
+    "version": "1.3.0.2"
+  },
+  {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Animals Expanded — Cats and Dogs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Rimcraft Animals",
     "steamId": null,
     "version": null
   },
@@ -2210,12 +2300,6 @@
   {
     "author": "Twoscythe",
     "name": "Ship Girl Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Spanky_H",
-    "name": "Bun Race",
     "steamId": null,
     "version": null
   },
@@ -2268,8 +2352,26 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Spencer7w",
+    "name": "Chaos (Warhammer 40k)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Gloomylynx NukaFrog",
     "name": "Dragonian Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell and contributors",
+    "name": "Rim of Madness - Vampires",
+    "steamId": "1187010034",
+    "version": "1.23.1.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Rim of Madness - Werewolves (Continued)",
     "steamId": null,
     "version": null
   },
@@ -2278,6 +2380,12 @@
     "name": "Rabbie The Moonrabbit race",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Djgamer2k",
+    "name": "Share The Load",
+    "steamId": "2576277142",
+    "version": "1.0.0.0"
   },
   {
     "author": "Aperture staff",
@@ -2332,6 +2440,36 @@
     "name": "Rabbie The Moonrabbit - English Patch (1.3)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "SickBoyWi",
+    "name": "Rimhammer - Dwarfs Themed Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spencer7w",
+    "name": "The Inquisition (Warhammer 40k)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Rimcraft Pirate Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Rimcraft Outlander Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SickBoyWI",
+    "name": "Rimhammer - The End Times - Dwarfs",
+    "steamId": "2016381892",
+    "version": "1.0.0.0"
   },
   {
     "author": "Shavius",

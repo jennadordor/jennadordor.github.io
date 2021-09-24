@@ -535,6 +535,70 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
+  "factionwar": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitAddon - [SR]Faction Wars"
+  },
+  "factionsiege": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitAddon - [SR]Faction Wars"
+  },
+  "factioncontention": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitAddon - [SR]Faction Wars"
+  },
+  "factioncamp": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitAddon - [SR]Faction Wars"
+  },
+  "raidpoachers": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitAddon - [SR]Raid Extension"
+  },
+  "raidloggers": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitAddon - [SR]Raid Extension"
+  },
+  "hostiletraveler": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitAddon - [SR]Raid Extension"
+  },
+  "hostilecaravan": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitAddon - [SR]Raid Extension"
+  },
   "reviveall": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
@@ -710,70 +774,6 @@
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
-  },
-  "factionwar": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Faction Wars"
-  },
-  "factionsiege": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Faction Wars"
-  },
-  "factioncontention": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Faction Wars"
-  },
-  "factioncamp": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Faction Wars"
-  },
-  "raidpoachers": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Raid Extension"
-  },
-  "raidloggers": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Raid Extension"
-  },
-  "hostiletraveler": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Raid Extension"
-  },
-  "hostilecaravan": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitAddon - [SR]Raid Extension"
   },
   "immortality": {
     "EventType": "Default",

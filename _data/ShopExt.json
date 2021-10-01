@@ -1211,7 +1211,8 @@
     {
       "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
-
+        "+3 medical",
+        "+3 plants"
       ],
       "conflicts": [
 
@@ -1227,7 +1228,8 @@
 
         ],
         "stats": [
-
+          "+3 medical",
+          "+3 plants"
         ]
       },
       "defName": "DrugDesire",
@@ -1241,7 +1243,8 @@
     {
       "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
-
+        "+1 medical",
+        "+1 plants"
       ],
       "conflicts": [
 
@@ -1257,7 +1260,8 @@
 
         ],
         "stats": [
-
+          "+1 medical",
+          "+1 plants"
         ]
       },
       "defName": "DrugDesire",
@@ -1363,7 +1367,9 @@
     {
       "description": "Timmy tends to look on the bad side of life.",
       "stats": [
-
+        "+2 animals",
+        "x105% tame animal chance",
+        "x110% train animal chance"
       ],
       "conflicts": [
 
@@ -1379,7 +1385,9 @@
 
         ],
         "stats": [
-
+          "+2 animals",
+          "x105% tame animal chance",
+          "x110% train animal chance"
         ]
       },
       "defName": "NaturalMood",
@@ -1393,7 +1401,9 @@
     {
       "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
       "stats": [
-
+        "+3 animals",
+        "x110% tame animal chance",
+        "x115% train animal chance"
       ],
       "conflicts": [
 
@@ -1409,7 +1419,9 @@
 
         ],
         "stats": [
-
+          "+3 animals",
+          "x110% tame animal chance",
+          "x115% train animal chance"
         ]
       },
       "defName": "NaturalMood",
@@ -86573,156 +86585,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy could be a shapeshifter that blends forms between man and wolf. When a special moon rises, he may have his first horrific transformation, or something else may happen...\n(Rim of Madness - Werewolves (Continued))",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves (Continued)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(?)",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy is unknowingly a shapeshifter that blends forms between man and wolf. When a special moon rises, he will have his first horrific transformation.\n(Rim of Madness - Werewolves (Continued))",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves (Continued)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(unblooded)",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a shapeshifter that blends its form with that of a wolf.\n(Rim of Madness - Werewolves (Continued))",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves (Continued)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 1
-    },
-    {
-      "description": "Having sworn a blood oath to their clan in good faith, Timmy is a shapeshifter that blends his form with that of a wolf, and cannot be recruited.\n(Rim of Madness - Werewolves (Continued))",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves (Continued)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(sworn)",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 2
-    },
-    {
-      "description": "Timmy is a genetic abberation known as the Metis. Somewhere in his genetic line, a werewolf mated with a werewolf and forever corrupted their werewolf line. This Werewolf can only transform into the Metis form.\n(Rim of Madness - Werewolves (Continued))",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim of Madness - Werewolves (Continued)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ROM_Werewolf",
-      "name": "werewolf(metis)",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 3
-    },
-    {
       "description": "Timmy is a Striker, an unarmed combatant that is an aggressive offshoot of the Monk -- they forsake defense and healing in exchange for a swift and offensive combat style.\n(Kure's Rimworld of Magic Class Expansion Pack)",
       "stats": [
         "+0.50 move speed",
@@ -87236,8 +87098,8 @@
       "name": "prisonguard",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87274,8 +87136,8 @@
       "name": "priest",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87310,8 +87172,8 @@
       "name": "psychicprodigy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87346,8 +87208,8 @@
       "name": "giftedpsychic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87376,8 +87238,8 @@
       "name": "fasthands",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87406,8 +87268,8 @@
       "name": "crackshot",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87436,8 +87298,8 @@
       "name": "marksman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87470,8 +87332,8 @@
       "name": "swordsman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87508,8 +87370,8 @@
       "name": "foreman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87544,8 +87406,8 @@
       "name": "deepdriller",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87582,8 +87444,8 @@
       "name": "sous-chef",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87616,8 +87478,8 @@
       "name": "pharmacist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87654,8 +87516,8 @@
       "name": "botanist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87698,8 +87560,8 @@
       "name": "rancher",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87732,8 +87594,8 @@
       "name": "artisan",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87770,8 +87632,8 @@
       "name": "fieldmedic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87806,8 +87668,8 @@
       "name": "smith",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87840,8 +87702,8 @@
       "name": "socialworker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87874,8 +87736,8 @@
       "name": "naturalgenius",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87912,8 +87774,8 @@
       "name": "wise",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87946,8 +87808,8 @@
       "name": "peasant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -87978,8 +87840,8 @@
       "name": "misanthrope",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88014,8 +87876,8 @@
       "name": "dysgeuisia",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88046,8 +87908,8 @@
       "name": "eclecticpalate",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88094,8 +87956,8 @@
       "name": "pacifist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88126,8 +87988,8 @@
       "name": "narcoleptic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88156,8 +88018,8 @@
       "name": "pyrophobia",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88188,8 +88050,8 @@
       "name": "nyctophobia",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88222,8 +88084,8 @@
       "name": "sleepyhead",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88254,8 +88116,8 @@
       "name": "lovessleeping",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88294,8 +88156,8 @@
       "name": "strongbody",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": -1
     },
     {
@@ -88334,8 +88196,8 @@
       "name": "weakbody",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 1
     },
     {
@@ -88364,8 +88226,8 @@
       "name": "fastmetabolism",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": -1
     },
     {
@@ -88394,8 +88256,8 @@
       "name": "slowmetabolism",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 1
     },
     {
@@ -88426,8 +88288,8 @@
       "name": "lovestheheat",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": -1
     },
     {
@@ -88458,8 +88320,8 @@
       "name": "lovesthecold",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 1
     },
     {
@@ -88608,8 +88470,8 @@
       "name": "alloutoffucks",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88646,8 +88508,8 @@
       "name": "astronomer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88704,8 +88566,8 @@
       "name": "authoritarian",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88752,8 +88614,8 @@
       "name": "backpacker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88822,8 +88684,8 @@
       "name": "blader",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88858,8 +88720,8 @@
       "name": "botanist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88902,8 +88764,8 @@
       "name": "braggart",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -88958,8 +88820,8 @@
       "name": "edgy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89012,8 +88874,8 @@
       "name": "smalltalker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89134,8 +88996,8 @@
       "name": "cautious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89216,8 +89078,8 @@
       "name": "cheerful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89304,8 +89166,8 @@
       "name": "clever",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89390,8 +89252,8 @@
       "name": "combatmedic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89446,8 +89308,8 @@
       "name": "complainer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89496,8 +89358,8 @@
       "name": "livingbioreactor",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89560,8 +89422,8 @@
       "name": "daredevil",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89622,8 +89484,8 @@
       "name": "steadyhands",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89706,8 +89568,8 @@
       "name": "determined",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89774,8 +89636,8 @@
       "name": "doomed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89824,8 +89686,8 @@
       "name": "earlyriser",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89884,8 +89746,8 @@
       "name": "developer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89932,8 +89794,8 @@
       "name": "defensivefighter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -89996,8 +89858,8 @@
       "name": "flincher",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90050,8 +89912,8 @@
       "name": "florist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90112,8 +89974,8 @@
       "name": "freerunner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90214,8 +90076,8 @@
       "name": "rolledupsleeves",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90288,8 +90150,8 @@
       "name": "healtyroutines",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90346,8 +90208,8 @@
       "name": "riflesmith",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90404,8 +90266,8 @@
       "name": "mason",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90480,8 +90342,8 @@
       "name": "fighter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90568,8 +90430,8 @@
       "name": "ruthless",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90640,8 +90502,8 @@
       "name": "devout",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90708,8 +90570,8 @@
       "name": "zealot",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90804,8 +90666,8 @@
       "name": "behemoth",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90866,8 +90728,8 @@
       "name": "uncultured",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90906,8 +90768,8 @@
       "name": "substancetolerant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90940,8 +90802,8 @@
       "name": "likessummer",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -90974,8 +90836,8 @@
       "name": "likesfall",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91010,8 +90872,8 @@
       "name": "likeswinter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91044,8 +90906,8 @@
       "name": "likesspring",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91098,8 +90960,8 @@
       "name": "spindly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91138,8 +91000,8 @@
       "name": "junkartist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91176,8 +91038,8 @@
       "name": "directhitter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91234,8 +91096,8 @@
       "name": "indirecthitter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91288,8 +91150,8 @@
       "name": "exile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91392,8 +91254,8 @@
       "name": "wildchild",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91430,8 +91292,8 @@
       "name": "go-getter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91496,8 +91358,8 @@
       "name": "sloppy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91566,6 +91428,70 @@
       },
       "defName": "S1_CageFighter",
       "name": "cagefighter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is now a natural hunter.\n(Pawnmorpher)",
+      "stats": [
+        "+1 shooting",
+        "+1 animals"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+1 shooting",
+          "+1 animals"
+        ]
+      },
+      "defName": "NaturalHunter",
+      "name": "naturalhunter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is intrigued by the idea of becoming something other than human.\n(Pawnmorpher)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "bodymodder",
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bodymodder",
+          "bodypurist"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "MutationAffinity",
+      "name": "mutationaffinity",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -91904,82 +91830,6 @@
       "enabled": true,
       "name": "Moyo",
       "price": 5333
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+$5800 Market value",
-          "+5.20 Move speed",
-          "-45.0C Minimum comfortable temperature",
-          "+45.0C Maximum comfortable temperature",
-          "+150% Immunity gain speed",
-          "+150 Carrying capacity",
-          "+50.0% Armor - Sharp",
-          "+40.0% Armor - Blunt",
-          "+20.0% Armor - Heat",
-          "+70% Flammability",
-          "+60% Toxic sensitivity",
-          "+110% Eating speed",
-          "+45 Meat amount",
-          "+80% Plant work speed",
-          "+120% Plant harvest yield",
-          "+75 Leather amount",
-          "+80% Mining speed",
-          "+120% Mining yield",
-          "+1.0 Melee dodge chance",
-          "+125% Aiming time",
-          "+80.00% Negotiation ability",
-          "+90% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Dragonian Race",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race</color></i>\n(Dragonian Race)",
-      "defName": "Dragonian_Male",
-      "enabled": true,
-      "name": "Dragonian",
-      "price": 9667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$5800 Market value",
-          "+5.20 Move speed",
-          "-45.0C Minimum comfortable temperature",
-          "+45.0C Maximum comfortable temperature",
-          "+150% Immunity gain speed",
-          "+150 Carrying capacity",
-          "+40.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+40.0% Armor - Heat",
-          "+60% Toxic sensitivity",
-          "+110% Eating speed",
-          "+45 Meat amount",
-          "+80% Plant work speed",
-          "+120% Plant harvest yield",
-          "+75 Leather amount",
-          "+80% Mining speed",
-          "+120% Mining yield",
-          "+1.0 Melee dodge chance",
-          "+125% Aiming time",
-          "+80.00% Negotiation ability",
-          "+90% Construction speed",
-          "+125.00% Social impact"
-        ],
-        "mod": "Dragonian Race",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race</color></i>\n(Dragonian Race)",
-      "defName": "Dragonian_Female",
-      "enabled": true,
-      "name": "Dragonian",
-      "price": 9667
     },
     {
       "data": {
@@ -94274,29 +94124,78 @@
     {
       "data": {
         "stats": [
-          "+70.00 Mass",
-          "+100% Flammability",
-          "-60.0C Minimum comfortable temperature",
-          "+200.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
+          "+50.00 Mass",
+          "+$5800 Market value",
+          "+5.20 Move speed",
+          "-45.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+150% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+50.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+20.0% Armor - Heat",
+          "+70% Flammability",
+          "+60% Toxic sensitivity",
+          "+110% Eating speed",
+          "+45 Meat amount",
+          "+80% Plant work speed",
+          "+120% Plant harvest yield",
+          "+75 Leather amount",
+          "+80% Mining speed",
+          "+120% Mining yield",
+          "+1.0 Melee dodge chance",
+          "+125% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90% Construction speed",
+          "+125.00% Social impact"
         ],
-        "mod": "Zombieland",
+        "mod": "Dragonian Race",
         "karmaType": null,
         "customName": false
       },
-      "description": "A zombie\n\n<i><color=#66E0E4FF>Zombieland</color></i>\n(Zombieland)",
-      "defName": "Zombie",
+      "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race</color></i>\n(Dragonian Race)",
+      "defName": "Dragonian_Male",
       "enabled": true,
-      "name": "Zombie",
-      "price": 1
+      "name": "Dragonian",
+      "price": 9667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$5800 Market value",
+          "+5.20 Move speed",
+          "-45.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+150% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+30.0% Armor - Blunt",
+          "+40.0% Armor - Heat",
+          "+60% Toxic sensitivity",
+          "+110% Eating speed",
+          "+45 Meat amount",
+          "+80% Plant work speed",
+          "+120% Plant harvest yield",
+          "+75 Leather amount",
+          "+80% Mining speed",
+          "+120% Mining yield",
+          "+1.0 Melee dodge chance",
+          "+125% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Dragonian Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race</color></i>\n(Dragonian Race)",
+      "defName": "Dragonian_Female",
+      "enabled": true,
+      "name": "Dragonian",
+      "price": 9667
     }
   ]
 }

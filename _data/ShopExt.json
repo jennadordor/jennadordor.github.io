@@ -479,7 +479,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is romantically attracted to both men and women.",
+      "description": "Timmy is romantically attracted to people regardless of gender.",
       "stats": [
 
       ],
@@ -509,7 +509,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has no sexual attraction to anyone at all.",
+      "description": "Timmy is uninterested in romantic entanglements.",
       "stats": [
 
       ],
@@ -87813,7 +87813,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy hates everyone equally.\n(Bundle Of Traits)",
+      "description": "Timmy hates everyone equally.\n((DN) Bundle Of Traits)",
       "stats": [
 
       ],
@@ -87826,7 +87826,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "misandrist",
@@ -87845,7 +87845,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy was born without a sense of taste and cannot enjoy food.\n(Bundle Of Traits)",
+      "description": "Timmy was born without a sense of taste and cannot enjoy food.\n((DN) Bundle Of Traits)",
       "stats": [
 
       ],
@@ -87860,7 +87860,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "gourmand",
@@ -87881,7 +87881,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves to eat food with a variety of ingredients but will be upset over bland food.\n(Bundle Of Traits)",
+      "description": "Timmy loves to eat food with a variety of ingredients but will be upset over bland food.\n((DN) Bundle Of Traits)",
       "stats": [
 
       ],
@@ -87894,7 +87894,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "ascetic",
@@ -87913,7 +87913,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy hates violence and wouldn't hurt a fly. They'll get upset if forced to do so.\n(Bundle Of Traits)",
+      "description": "Timmy hates violence and wouldn't hurt a fly. They'll get upset if forced to do so.\n((DN) Bundle Of Traits)",
       "stats": [
         "Social fighting mental state disabled.",
         "Berserk mental state disabled.",
@@ -87934,7 +87934,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "bloodlust",
@@ -87961,7 +87961,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy suffers from a neurologcal disorder that makes he prone to randomly fall alseep anywhere.\n(Bundle Of Traits)",
+      "description": "Timmy suffers from a neurologcal disorder that makes he prone to randomly fall alseep anywhere.\n((DN) Bundle Of Traits)",
       "stats": [
 
       ],
@@ -87974,7 +87974,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "lovessleeping",
@@ -87993,7 +87993,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is irrationally afraid of fire and will flee the scene if not drafted. he hates getting burns.\n(Bundle Of Traits)",
+      "description": "Timmy is irrationally afraid of fire and will flee the scene if not drafted. he hates getting burns.\n((DN) Bundle Of Traits)",
       "stats": [
 
       ],
@@ -88005,7 +88005,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "pyromaniac"
@@ -88023,7 +88023,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is afraid of the dark. him will be extra unhappy when in darkness and has trouble sleeping without light.\n(Bundle Of Traits)",
+      "description": "Timmy is afraid of the dark. him will be extra unhappy when in darkness and has trouble sleeping without light.\n((DN) Bundle Of Traits)",
       "stats": [
 
       ],
@@ -88036,7 +88036,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "undergrounder",
@@ -88055,7 +88055,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves to sleep in and will gladly ignore their schedule if it means they can lie in bed and sleep some more. \n(Bundle Of Traits)",
+      "description": "Timmy loves to sleep in and will gladly ignore their schedule if it means they can lie in bed and sleep some more. \n((DN) Bundle Of Traits)",
       "stats": [
 
       ],
@@ -88069,7 +88069,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "lovessleeping",
@@ -88089,7 +88089,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy always feel good after a good night's sleep.\n(Bundle Of Traits)",
+      "description": "Timmy always feel good after a good night's sleep.\n((DN) Bundle Of Traits)",
       "stats": [
 
       ],
@@ -88102,7 +88102,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "narcoleptic",
@@ -88121,7 +88121,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy was born with a strong, healthy body. They can carry more, mine faster, deal more damage in melee combat and take reduced damage from attacks.\n(Bundle Of Traits)",
+      "description": "Timmy was born with a strong, healthy body. They can carry more, mine faster, deal more damage in melee combat and take reduced damage from attacks.\n((DN) Bundle Of Traits)",
       "stats": [
         "+25 carrying capacity",
         "-15% incoming damage multiplier",
@@ -88138,7 +88138,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "weakbody",
@@ -88161,7 +88161,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy was unfortunately born with a weak, feeble body. They cannot carry as much as everyone else, mine slower, deal less damage in melee and take increased damage from attacks.\n(Bundle Of Traits)",
+      "description": "Timmy was unfortunately born with a weak, feeble body. They cannot carry as much as everyone else, mine slower, deal less damage in melee and take increased damage from attacks.\n((DN) Bundle Of Traits)",
       "stats": [
         "-25 carrying capacity",
         "+15% incoming damage multiplier",
@@ -88178,7 +88178,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "strongbody",
@@ -88201,7 +88201,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy's body works at a faster rate than a normal person, letting them heal faster at the cost of getting hungry quicker. \n(Bundle Of Traits)",
+      "description": "Timmy's body works at a faster rate than a normal person, letting them heal faster at the cost of getting hungry quicker. \n((DN) Bundle Of Traits)",
       "stats": [
 
       ],
@@ -88213,7 +88213,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -88231,7 +88231,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy's body works at a slower rate than a normal person, healing much slower as a result. At least they don't eat as much.\n(Bundle Of Traits)",
+      "description": "Timmy's body works at a slower rate than a normal person, healing much slower as a result. At least they don't eat as much.\n((DN) Bundle Of Traits)",
       "stats": [
 
       ],
@@ -88243,7 +88243,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -88261,7 +88261,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy just loves the heat and won't suffer any negative thoughts related to being warm. he despises being cold, though.\n(Bundle Of Traits)",
+      "description": "Timmy just loves the heat and won't suffer any negative thoughts related to being warm. he despises being cold, though.\n((DN) Bundle Of Traits)",
       "stats": [
         "+5.0C Maximum comfortable temperature"
       ],
@@ -88274,7 +88274,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "heatinclined",
@@ -88293,7 +88293,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy just loves the cold and won't suffer any negative thoughts related to being cold. he despises being warm, though.\n(Bundle Of Traits)",
+      "description": "Timmy just loves the cold and won't suffer any negative thoughts related to being cold. he despises being warm, though.\n((DN) Bundle Of Traits)",
       "stats": [
         "-5.0C Minimum comfortable temperature"
       ],
@@ -88306,7 +88306,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Bundle Of Traits",
+        "mod": "[DN] Bundle Of Traits",
         "karmaTypeForAdding": null,
         "conflicts": [
           "heatinclined",
@@ -91462,8 +91462,8 @@
       "name": "naturalhunter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -91492,6 +91492,596 @@
       },
       "defName": "MutationAffinity",
       "name": "mutationaffinity",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has no goals in life. No dreams, motivation or passions. It's going to take a lot to break what is left of them.\n((DN) Bundle Of Traits)",
+      "stats": [
+        "Work frenzy inspiration disabled.",
+        "Go frenzy inspiration disabled.",
+        "Shoot frenzy inspiration disabled.",
+        "Inspired trade inspiration disabled.",
+        "Inspired recruitment inspiration disabled.",
+        "Inspired taming inspiration disabled.",
+        "Inspired surgery inspiration disabled.",
+        "Inspired creativity inspiration disabled.",
+        "Introspection inspiration disabled.",
+        "Mana regeneration inspiration disabled.",
+        "Outgoing inspiration disabled.",
+        "Mining frenzy inspiration disabled.",
+        "Farming frenzy inspiration disabled.",
+        "Champion inspiration disabled.",
+        "Enlightened inspiration disabled.",
+        "Arcane path inspiration disabled.",
+        "Inspired planting inspiration disabled.",
+        "Party frenzy inspiration disabled.",
+        "Inspired research inspiration disabled.",
+        "Inspired mining inspiration disabled.",
+        "Learning frenzy inspiration disabled.",
+        "Inspired cooking inspiration disabled.",
+        "Flirting frenzy inspiration disabled.",
+        "Melee frenzy inspiration disabled.",
+        "Work frenzy inspiration disabled.",
+        "Inspired trade inspiration disabled.",
+        "Inspired creativity inspiration disabled.",
+        "Favor of Grungi inspiration disabled.",
+        "Favor of Valaya inspiration disabled.",
+        "Favor of Grimnir inspiration disabled.",
+        "Favor of Smednir inspiration disabled.",
+        "Favor of Morgrim inspiration disabled.",
+        "Favor of Gazul inspiration disabled.",
+        "-24% mental break threshold"
+      ],
+      "conflicts": [
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile",
+        "torturedartist",
+        "sanguine",
+        "optimist",
+        "pessimist",
+        "depressive",
+        "moody",
+        "anxious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile",
+          "torturedartist",
+          "sanguine",
+          "optimist",
+          "pessimist",
+          "depressive",
+          "moody",
+          "anxious"
+        ],
+        "stats": [
+          "Work frenzy inspiration disabled.",
+          "Go frenzy inspiration disabled.",
+          "Shoot frenzy inspiration disabled.",
+          "Inspired trade inspiration disabled.",
+          "Inspired recruitment inspiration disabled.",
+          "Inspired taming inspiration disabled.",
+          "Inspired surgery inspiration disabled.",
+          "Inspired creativity inspiration disabled.",
+          "Introspection inspiration disabled.",
+          "Mana regeneration inspiration disabled.",
+          "Outgoing inspiration disabled.",
+          "Mining frenzy inspiration disabled.",
+          "Farming frenzy inspiration disabled.",
+          "Champion inspiration disabled.",
+          "Enlightened inspiration disabled.",
+          "Arcane path inspiration disabled.",
+          "Inspired planting inspiration disabled.",
+          "Party frenzy inspiration disabled.",
+          "Inspired research inspiration disabled.",
+          "Inspired mining inspiration disabled.",
+          "Learning frenzy inspiration disabled.",
+          "Inspired cooking inspiration disabled.",
+          "Flirting frenzy inspiration disabled.",
+          "Melee frenzy inspiration disabled.",
+          "Work frenzy inspiration disabled.",
+          "Inspired trade inspiration disabled.",
+          "Inspired creativity inspiration disabled.",
+          "Favor of Grungi inspiration disabled.",
+          "Favor of Valaya inspiration disabled.",
+          "Favor of Grimnir inspiration disabled.",
+          "Favor of Smednir inspiration disabled.",
+          "Favor of Morgrim inspiration disabled.",
+          "Favor of Gazul inspiration disabled.",
+          "-24% mental break threshold"
+        ]
+      },
+      "defName": "BOT_Apathetic",
+      "name": "apathetic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has an intense fear of insects and will not hesitate to run away upon spotting one.\n((DN) Bundle Of Traits)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BOT_Entomophobia",
+      "name": "entomophobia",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Having had easy access to insect meat during most of their life Timmy became accustomed to eating it to the point that he preferred it over normal meat.\n((DN) Bundle Of Traits)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "cannibal"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "cannibal"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BOT_Entomophagous",
+      "name": "entomophagous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy loves the company of others. The more, the merrier.\n((DN) Bundle Of Traits)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "psychopath"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BOT_Gregarious",
+      "name": "gregarious",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy loves the rain. he doesn't mind being wet and gets happy during rainy weather.\n((DN) Bundle Of Traits)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "chionophile"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "chionophile"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BOT_Pluviophile",
+      "name": "pluviophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "There's nothing Timmy loves more than snow! No amount of snow are is going to slow them down.\n((DN) Bundle Of Traits)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "pluviophile",
+        "lovestheheat",
+        "lovesthecold"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "pluviophile",
+          "lovestheheat",
+          "lovesthecold"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BOT_Chionophile",
+      "name": "chionophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "It doesn't take much to make Timmy either really excited or to bring him mood completely down.\n((DN) Bundle Of Traits)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "torturedartist",
+        "sanguine",
+        "optimist",
+        "pessimist",
+        "depressive",
+        "apathetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "torturedartist",
+          "sanguine",
+          "optimist",
+          "pessimist",
+          "depressive",
+          "apathetic"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BOT_Moody",
+      "name": "moody",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy prefers to wake up early in the day to get as much work done as possible during the day.\n\nhe gets a mood boost if awake during the early hours of a day (5h-12h) and mood loss if awake during the evening (17h-0h).\n((DN) Bundle Of Traits)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "nightowl"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "nightowl"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BOT_EarlyBird",
+      "name": "earlybird",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has grown accustomed to a tightly nit colony and loves sleeping in barracks. Preferably with many other pawns.\n((DN) Bundle Of Traits)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jealous",
+        "greedy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jealous",
+          "greedy"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BOT_Communal",
+      "name": "communal",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy likes seeing other pawns suffer and gets excited from causing damage.\n((DN) Bundle Of Traits)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "pacifist",
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "pacifist",
+          "kind"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BOT_Sadist",
+      "name": "sadist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "For whatever purpose, Timmy has taught himself every swear word in the dictionary and uses his profane knowledge unconsciously in him day-to-day.\n((DN) Bundle Of Traits)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "kind",
+        "comedian",
+        "abrasive"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "kind",
+          "comedian",
+          "abrasive"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BOT_Vulgar",
+      "name": "vulgar",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy always tries to raise their fellow pawns' mood by telling jokes. Or try to, at least.\n((DN) Bundle Of Traits)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "vulgar",
+        "abrasive"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[DN] Bundle Of Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "vulgar",
+          "abrasive"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "BOT_Comedian",
+      "name": "comedian",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is romantically attracted to people of the opposite gender.\n((RF) Rational Romance (Continued))",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[RF] Rational Romance (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Straight",
+      "name": "straight",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.\n((RF) Rational Romance (Continued))",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "philanderer"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[RF] Rational Romance (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "philanderer"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Faithful",
+      "name": "faithful",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy just cannot be trusted to stay faithful to a partner.\n((RF) Rational Romance (Continued))",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "faithful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[RF] Rational Romance (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "faithful"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Philanderer",
+      "name": "philanderer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy prefers romantic relationships involving multiple partners to monogamous relationships. he doesn't mind if his partners romance other people, but will be less happy in a restraining, monogamous relationship.\n((RF) Rational Romance (Continued))",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "asexual"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[RF] Rational Romance (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "asexual"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Polyamorous",
+      "name": "polyamorous",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -94196,6 +94786,592 @@
       "enabled": true,
       "name": "Dragonian",
       "price": 9667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "-10.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+35% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+100.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+20.0% Armor - Blunt",
+          "+25.0% Armor - Sharp"
+        ],
+        "mod": "Beast Man Tribes",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A man with the head of a bear.\n\n<i><color=#66E0E4FF>Beast Man Tribes</color></i>\n(Beast Man Tribes)",
+      "defName": "BearMan",
+      "enabled": true,
+      "name": "bear man",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+52.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+35% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+100.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Beast Man Tribes",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A man with the head of a camel.\n\n<i><color=#66E0E4FF>Beast Man Tribes</color></i>\n(Beast Man Tribes)",
+      "defName": "CamelMan",
+      "enabled": true,
+      "name": "camel man",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+35% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+100.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Beast Man Tribes",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A man with the head of an elephant.\n\n<i><color=#66E0E4FF>Beast Man Tribes</color></i>\n(Beast Man Tribes)",
+      "defName": "ElephantMan",
+      "enabled": true,
+      "name": "elephant man",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+0.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+5.00 Move speed",
+          "+75 Carrying capacity",
+          "+35% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+100.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Beast Man Tribes",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A man with the head of an elk.\n\n<i><color=#66E0E4FF>Beast Man Tribes</color></i>\n(Beast Man Tribes)",
+      "defName": "ElkMan",
+      "enabled": true,
+      "name": "elk man",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+42.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+35% Mental break threshold",
+          "+110% Research speed",
+          "+100% Mining speed",
+          "+100.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Beast Man Tribes",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A man with the head of a fox.\n\n<i><color=#66E0E4FF>Beast Man Tribes</color></i>\n(Beast Man Tribes)",
+      "defName": "FoxMan",
+      "enabled": true,
+      "name": "fox man",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+42.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+5.00 Move speed",
+          "+75 Carrying capacity",
+          "+35% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+100.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Beast Man Tribes",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A man with the head of a gazelle.\n\n<i><color=#66E0E4FF>Beast Man Tribes</color></i>\n(Beast Man Tribes)",
+      "defName": "GazelleMan",
+      "enabled": true,
+      "name": "gazelle man",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+35% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+100.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Beast Man Tribes",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A man with the head of a lynx.\n\n<i><color=#66E0E4FF>Beast Man Tribes</color></i>\n(Beast Man Tribes)",
+      "defName": "LynxMan",
+      "enabled": true,
+      "name": "lynx man",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+35% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+100.00% Social impact",
+          "+100% Plant work speed",
+          "+110% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Beast Man Tribes",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A man with the head of a pig.\n\n<i><color=#66E0E4FF>Beast Man Tribes</color></i>\n(Beast Man Tribes)",
+      "defName": "PigMan",
+      "enabled": true,
+      "name": "pig man",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "-10.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.75 Move speed",
+          "+75 Carrying capacity",
+          "+35% Mental break threshold",
+          "+110% Research speed",
+          "+100% Mining speed",
+          "+100.00% Social impact",
+          "+100% Plant work speed",
+          "+110% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Beast Man Tribes",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A man with the head of a raccoon.\n\n<i><color=#66E0E4FF>Beast Man Tribes</color></i>\n(Beast Man Tribes)",
+      "defName": "RaccoonMan",
+      "enabled": true,
+      "name": "raccoon man",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "-10.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+35% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+110.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Beast Man Tribes",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A man with the head of a wolf.\n\n<i><color=#66E0E4FF>Beast Man Tribes</color></i>\n(Beast Man Tribes)",
+      "defName": "WolfMan",
+      "enabled": true,
+      "name": "wolf man",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+130% Immunity gain speed",
+          "+80% Global learning factor",
+          "+70% Toxic sensitivity",
+          "+$1500 Market value",
+          "+4.90 Move speed",
+          "-6.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+140% Smoothing speed",
+          "+100% Construction speed",
+          "+100% Research speed",
+          "+140% Mining speed",
+          "+70.00% Social impact",
+          "+1.2 Melee dodge chance",
+          "+0.0% Armor - Blunt",
+          "+7.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Warhammer: Skaven",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Skaven, ratmen or ratkins. They are a malevolent and diabolical race of large humanoid rat-creatures.\n\n<i><color=#66E0E4FF>Skaven Upgraded! (Continued)</color></i>\n(Skaven Upgraded! (Continued))",
+      "defName": "Alien_Skaven",
+      "enabled": true,
+      "name": "skaven",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+130% Immunity gain speed",
+          "+80% Global learning factor",
+          "+70% Toxic sensitivity",
+          "+$1570 Market value",
+          "+4.90 Move speed",
+          "-6.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Smoothing speed",
+          "+100% Construction speed",
+          "+80% Research speed",
+          "+100% Mining speed",
+          "+90.00% Social impact",
+          "+1.2 Melee dodge chance",
+          "+5.0% Armor - Blunt",
+          "+8.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Warhammer: Skaven",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A large skaven, born stronger than the rest. They are bigger and stonger than the normal clanrats that lives across the skaven holds. They are aggressive by nature and are given to overt displays of prowess in order to intimidate those around them.\n\n<i><color=#66E0E4FF>Skaven Upgraded! (Continued)</color></i>\n(Skaven Upgraded! (Continued))",
+      "defName": "Alien_SkavenStorm",
+      "enabled": true,
+      "name": "Vermin",
+      "price": 2617
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+130% Pain shock threshold",
+          "+160% Immunity gain speed",
+          "+120% Global learning factor",
+          "+50% Toxic sensitivity",
+          "+$2500 Market value",
+          "+4.90 Move speed",
+          "-6.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+140% Smoothing speed",
+          "+100% Construction speed",
+          "+140% Research speed",
+          "+100% Mining speed",
+          "+120.00% Social impact",
+          "+1.2 Melee dodge chance",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Warhammer: Skaven",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A skaven with horns are blessed by the horned rat. They stand atop of the hierarchy, leading the councils with visions and advise.\n\n<i><color=#66E0E4FF>Skaven Upgraded! (Continued)</color></i>\n(Skaven Upgraded! (Continued))",
+      "defName": "Alien_HornedSkaven",
+      "enabled": true,
+      "name": "horned skaven",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+120% Flammability",
+          "+100% Psychic sensitivity",
+          "+130% Pain shock threshold",
+          "+200% Immunity gain speed",
+          "+150% Global learning factor",
+          "+50% Toxic sensitivity",
+          "+$2500 Market value",
+          "+4.90 Move speed",
+          "-6.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+100% Smoothing speed",
+          "+100% Construction speed",
+          "+140% Research speed",
+          "+75% Mining speed",
+          "+50.00% Social impact",
+          "+1.0 Melee dodge chance",
+          "+35.0% Armor - Blunt",
+          "+30.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Warhammer: Skaven",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Skaven of clan Moulder, often of senior-rank. Rat-men with vile knowledge of clan Moulder secrets, scarred and mutated form their practice in the laboratories deep under the surface.\n\n<i><color=#66E0E4FF>Skaven Upgraded! (Continued)</color></i>\n(Skaven Upgraded! (Continued))",
+      "defName": "Alien_SkavenMoulder",
+      "enabled": true,
+      "name": "Moulder skaven",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "+$2750 Market value",
+          "+4.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+60 Leather amount",
+          "+3 Honor value",
+          "+80 Carrying capacity",
+          "+90% Research speed",
+          "+90% Mining speed",
+          "+110.00% Social impact",
+          "+90% Plant work speed",
+          "+90% Construction speed"
+        ],
+        "mod": "Star Wars Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Shaggy giants from an arboreal world, the tall and commanding Wookieee species is an impressive sight to even the most jaded spacer. \n        Despite their fearsome and savage countenance, Wookieees are intelligent, sophisticated, loyal and trusting. Loyalty and bravery are near-sacred tenets in Wookieee society. \n        When peaceful, Wookieees are tender and gentle. \n        Their tempers, however, are short; when angered, Wookieees can fly into a berserker rage and will not stop until the object of their distemper is sufficiently destroyed.\n\n<i><color=#66E0E4FF>Star Wars Races</color></i>\n(Star Wars Races)",
+      "defName": "StarWarsRaces_Wookiee",
+      "enabled": true,
+      "name": "Wookiee",
+      "price": 4583
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Star Wars Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Togrutas were a carnivorous humanoid species from the planet Shili. The species exhibited head-tails which were similar to those of Twi'leks. Unlike Twi'leks, a Togurta's lekku ran parallel to the head as opposed to behind, making it appear as though they were wearing a headdress. Togruta were also distinguished by montrals, large hollow horn-like projections from the top of their heads, that gave the species a form of passive echolocation. In order to protect themselves from dangerous predators, and to hunt their own prey, Togruta banded together in tribes and relied on their natural pigmentation to disrupt and confuse slow-witted beasts. Togruta worked well in large groups, and individualism was seen as abnormal within their culture, although it was also a necessary quality in leaders.\n\n<i><color=#66E0E4FF>Star Wars Races</color></i>\n(Star Wars Races)",
+      "defName": "StarWarsRaces_Togruta",
+      "enabled": true,
+      "name": "Togruta",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Star Wars Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Rodians are a reptilian species with antennae, green and scaled skin, large round pupil-less eyes, and snouts from the planet Rodia.\n\n<i><color=#66E0E4FF>Star Wars Races</color></i>\n(Star Wars Races)",
+      "defName": "StarWarsRaces_Rodian",
+      "enabled": true,
+      "name": "Rodian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Star Wars Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Ewoks are sentient furred bipeds native to the moon of Endor.\n\n<i><color=#66E0E4FF>Star Wars Races</color></i>\n(Star Wars Races)",
+      "defName": "StarWarsRaces_Ewok",
+      "enabled": true,
+      "name": "Ewok",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Star Wars Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Twi'leks are tall, thin humanoids with skin pigment that spans a rainbow of colors.\n      Their most distinctive feature is a pair of prehensile tentacles that grow from the base of their skulls.\n      These Lekku are vital to the health of the Twi'lek, which is unfortunate because they prevent the Twi'lek from wearing most forms of head protection.\n      Some have theorized that this obvious weakness is why the Twi'lek people have been so heavily targetted by slavers.\n\n<i><color=#66E0E4FF>Star Wars Races</color></i>\n(Star Wars Races)",
+      "defName": "StarWarsRaces_Twilek",
+      "enabled": true,
+      "name": "Twi'lek",
+      "price": 2917
     }
   ]
 }

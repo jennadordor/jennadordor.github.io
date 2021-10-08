@@ -36,16 +36,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "9.0.1"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
   },
   {
     "author": "jecrell and contributors",
@@ -144,6 +144,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Haplo",
     "name": "Miscellaneous 'CORE'",
     "steamId": "704181221",
@@ -189,7 +195,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.5.5"
+    "version": "1.5.6"
   },
   {
     "author": "latta",
@@ -210,6 +216,12 @@
     "version": "0.5.3"
   },
   {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "2.0.0-beta"
+  },
+  {
     "author": "spoonshortage",
     "name": "RIMkea",
     "steamId": null,
@@ -220,6 +232,12 @@
     "name": "Archotech++",
     "steamId": "2496279558",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Vaniat",
+    "name": "Polarisbloc - Core LAB",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "DimonSever000",
@@ -272,6 +290,24 @@
   {
     "author": "UnlimitedHugs",
     "name": "Map Reroll",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Odeum",
+    "name": "BiomesKit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands",
+    "steamId": "2038001322",
+    "version": "1.3.1.1"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Bunnies",
     "steamId": null,
     "version": null
   },
@@ -456,6 +492,12 @@
     "version": null
   },
   {
+    "author": "Erin and AveryTheKitty",
+    "name": "Erin's Japanese Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Xen and Jecrell",
     "name": "Star Wars - Fully Functional Lightsabers (Continued)",
     "steamId": "2263225380",
@@ -519,7 +561,13 @@
     "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
-    "version": "1.3.767"
+    "version": "1.2.7365"
+  },
+  {
+    "author": "zhrock11",
+    "name": "Stackable Chunks [1.3+]",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kiame Vivacity",
@@ -552,8 +600,20 @@
     "version": null
   },
   {
+    "author": "ZhengXiaotian",
+    "name": "Z_More Pulse Turrets 更多脉冲炮塔",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Orion",
     "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kyrrisayo",
+    "name": "Weapons+",
     "steamId": null,
     "version": null
   },
@@ -721,7 +781,7 @@
   },
   {
     "author": "Danimineiro",
-    "name": "Bundle Of Traits",
+    "name": "[DN] Bundle Of Traits",
     "steamId": null,
     "version": null
   },
@@ -940,6 +1000,12 @@
     "name": "Animal Tab",
     "steamId": "712141500",
     "version": "4.7.272"
+  },
+  {
+    "author": "Holgast",
+    "name": "Smelt More Stuff",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "RebelRabbit and  Taranchuk",
@@ -1333,6 +1399,12 @@
   },
   {
     "author": "Roolo",
+    "name": "Giddy-up! Mechanoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
     "name": "Giddy-up! Caravan",
     "steamId": null,
     "version": null
@@ -1698,6 +1770,12 @@
     "version": null
   },
   {
+    "author": "DimonSever000",
+    "name": "Mechanoid+",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Chicken Plucker and  Taranchuk",
     "name": "[RH2] Hand-To-Hand",
     "steamId": "2556532381",
@@ -1812,10 +1890,34 @@
     "version": "1.1"
   },
   {
+    "author": "zymex",
+    "name": "Project RimFactory - Insanity",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sinnamon",
+    "name": "More Ritual Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Neceros",
     "name": "Traders Have Money",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Raiders Never Die (Continued)",
+    "steamId": "2024330186",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "[RF] Rational Romance (Continued)",
+    "steamId": "2013144996",
+    "version": "1.0.10.0"
   },
   {
     "author": "Pravus",
@@ -1854,6 +1956,12 @@
     "version": null
   },
   {
+    "author": "Hey my team rules!",
+    "name": "Advanced Biomes (Continued)",
+    "steamId": "2052116426",
+    "version": "1.0.11.0"
+  },
+  {
     "author": "Kapitan Oczywisty",
     "name": "Change map edge limit",
     "steamId": null,
@@ -1868,6 +1976,12 @@
   {
     "author": "flo.vall,  Shakesthespeare and  TrahsPanda",
     "name": "Bagged Milk (Retexture)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Telkir",
+    "name": "[T] MoreBedsVanilla",
     "steamId": null,
     "version": null
   },
@@ -1938,6 +2052,18 @@
     "version": null
   },
   {
+    "author": "jonny02 and explodoboy",
+    "name": "Brain Implants and More (implants)!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Paul Freeman",
+    "name": "YouDoYou",
+    "steamId": "2019368012",
+    "version": "1.2.1"
+  },
+  {
     "author": "Fuglypump",
     "name": "Fallout Traits",
     "steamId": null,
@@ -1972,6 +2098,12 @@
     "name": "Dire Raids",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "svc_bot",
+    "name": "Luci heals more!",
+    "steamId": "965087548",
+    "version": "2.0.1"
   },
   {
     "author": "Andreas Pardeike",
@@ -2064,6 +2196,12 @@
     "version": "1.0.5.0"
   },
   {
+    "author": "llunak",
+    "name": "More Precepts",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Smash Phil | Dr_Zhivago",
     "name": "Carry Capacity Fixed",
     "steamId": null,
@@ -2148,6 +2286,12 @@
     "version": null
   },
   {
+    "author": "Beta",
+    "name": "[Beta]Anime Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Ancient Complex Loot",
     "steamId": null,
@@ -2168,6 +2312,12 @@
   {
     "author": "Kayedon",
     "name": "[KYD] More Pawns Get Prosthetics!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dickmosi",
+    "name": "Release The Rats!",
     "steamId": null,
     "version": null
   },
@@ -2250,6 +2400,12 @@
     "version": null
   },
   {
+    "author": "Hey my team rules!",
+    "name": "Beast Man Tribes",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AUTOMATIC and  Oracle of Thessia",
     "name": "Rim-Effect: Themis Traders",
     "steamId": "2488461271",
@@ -2272,6 +2428,30 @@
     "name": "Pawnmorpher",
     "steamId": "1786466855",
     "version": "1.12.1"
+  },
+  {
+    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Killgaet",
+    "name": "Duck army",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ArmoredAmpharos",
+    "name": "FancyRats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "Ducks",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "MarvinKosh",
@@ -2376,16 +2556,16 @@
     "version": "1.3.0.2"
   },
   {
-    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Ryflamer",
     "name": "[Ry]Rimcraft Animals",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Deon",
+    "name": "Borderlands: The Rim",
+    "steamId": "1911170462",
+    "version": "1.0.0.0"
   },
   {
     "author": "Fox with a Shotgun",
@@ -2532,6 +2712,12 @@
     "version": null
   },
   {
+    "author": "Kompadt",
+    "name": "Warhammer: Skaven",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ryflamer",
     "name": "[Ry]Rimcraft Outlander Patch",
     "steamId": null,
@@ -2544,10 +2730,34 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Vaniat",
+    "name": "Polarisbloc - Mechenemy",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Shavius",
     "name": "Ratkin/Rabbie/Dragonian/Moyo RBSE compatibility patch",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sarg",
+    "name": "Magical Menagerie",
+    "steamId": "1821617793",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Buffsboy474",
+    "name": "Skaven Upgraded! (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Foggy Morning",
+    "name": "Star Wars Races",
+    "steamId": "1662194938",
+    "version": "1.0.0.0"
   },
   {
     "author": "Kikohi",

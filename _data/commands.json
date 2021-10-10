@@ -266,23 +266,6 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Mod settings",
-    "usage": "!modsettings",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
     "name": "Instructions",
     "usage": "!instructions",
     "userLevel": "Anyone",

@@ -621,7 +621,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
+      "description": "Timmy loves to start and watch fires. he get stressed and anxious if not allowed to do so for an extended period of time, but will be happier if allowed to do so. he also enjoys using incendiary weapons and will only go on fire-starting sprees when having a mental break.",
       "stats": [
         "Flame meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
@@ -55093,156 +55093,6 @@
       "degree": 0
     },
     {
-      "description": "This is what a common trait would look like when paired with RimTraits: Vanilla Trait Colours.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "RT_DemoCommon",
-      "name": "traitdemo:common",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 0
-    },
-    {
-      "description": "This is what an uncommon trait would look like when paired with RimTraits: Vanilla Trait Colours.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "RT_DemoUncommon",
-      "name": "traitdemo:uncommon",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 0
-    },
-    {
-      "description": "This is what a rare trait would look like when paired with RimTraits: Vanilla Trait Colours.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "RT_DemoRare",
-      "name": "traitdemo:rare",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 0
-    },
-    {
-      "description": "This is what an epic trait would look like when paired with RimTraits: Vanilla Trait Colours.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "RT_DemoEpic",
-      "name": "traitdemo:epic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 0
-    },
-    {
-      "description": "This is what a legendary trait would look like when paired with RimTraits: Vanilla Trait Colours.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "RT_DemoLegendary",
-      "name": "traitdemo:legendary",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 0
-    },
-    {
       "description": "Timmy is naturally talented, he gets a headstart before everyone else.",
       "stats": [
         "+4 shooting",
@@ -94773,6 +94623,194 @@
       "addPrice": 1500,
       "removePrice": 1500,
       "degree": 1
+    },
+    {
+      "description": "Timmy is a security variant, it features higher armour compared to other variants.",
+      "stats": [
+        "+30.0% Armor - Sharp",
+        "+20.0% Armor - Blunt"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+30.0% Armor - Sharp",
+          "+20.0% Armor - Blunt"
+        ]
+      },
+      "defName": "RSTraitSecurity",
+      "name": "securitymodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a forest variant, it features higher melee skills and higher movement in forests compared to other variants.",
+      "stats": [
+        "+15.0 melee dodge chance",
+        "+5.0 melee hit chance",
+        "+1.00 move speed",
+        "x80% melee cooldown"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15.0 melee dodge chance",
+          "+5.0 melee hit chance",
+          "+1.00 move speed",
+          "x80% melee cooldown"
+        ]
+      },
+      "defName": "RSTraitForest",
+      "name": "forestmodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a winter variant, it features higher accuracy and higher movement in snowy terrain compared to other variants.",
+      "stats": [
+        "+5.0 shooting accuracy"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5.0 shooting accuracy"
+        ]
+      },
+      "defName": "RSTraitWinter",
+      "name": "wintermodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a desert variant, it features faster aiming time and higher movement in sandy terrain compared to other variants.",
+      "stats": [
+        "-50% aiming time"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% aiming time"
+        ]
+      },
+      "defName": "RSTraitDesert",
+      "name": "desertmodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy Todo. he Todo",
+      "stats": [
+        "-35% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-35% mental break threshold"
+        ]
+      },
+      "defName": "RSTraitRobot",
+      "name": "robot",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy Todo. he Todo",
+      "stats": [
+        "x130% market value"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x130% market value"
+        ]
+      },
+      "defName": "RSTraitValuable",
+      "name": "valuable",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -94907,7 +94945,7 @@
           "+80 Meat amount",
           "+90 Leather amount",
           "+0.9 Melee dodge chance",
-          "+125% Aiming time",
+          "+100% Aiming time",
           "+50.00% Negotiation ability",
           "+150.00% Social impact",
           "+6 Honor value",
@@ -95894,7 +95932,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "A reclusive and diminishing race of proto-mechanical persona, 'skeletons' are fully sentient and feeling mechanical entities; they were built thousands of years ago as stand-ins for humans during lengthy processes, such as space flight. Since being manufactured they have been replaced by the far more complex mechanoid and AI persona. They have no fear of prejudice or fear of death - and are usually levelheaded thinkers.\n\nBeing mechanical in nature - 'skeletons' do not need sustenance or rest, but this does not make them invulnerable to \"pain\" signals, chemical signals, or psychic engines. Furthermore, due to their incredibly long lifespan and common crushing existential dread; most 'skeletons' are depressed or dreadfully pessimistic of their future.\n\n<i><color=#66E0E4FF>Rim-Skeletons</color></i>",
+      "description": "A reclusive and diminishing race of proto-mechanical persona, 'skeletons' are fully sentient and feeling mechanical entities; they were built thousands of years ago as stand-ins for humans during lengthy processes, such as space flight. Since being manufactured they have been replaced by the far more complex mechanoid and AI persona. They have no fear of prejudice or fear of death - and are usually levelheaded thinkers.\n\nBeing mechanical in nature - 'skeletons' do not need to rest or eat; although they do require reactor fuel in the form of distilled chemfuel. Their mechanical bodies however do not make them invulnerable to \"pain\" signals, chemical reactions, or psychic engines. Furthermore, due to their incredibly long lifespan and common crushing existential dread; most 'skeletons' are depressed or dreadfully pessimistic of their future.\n\n<i><color=#66E0E4FF>Rim-Skeletons</color></i>",
       "defName": "Skeleton_",
       "enabled": true,
       "name": "skeleton",
@@ -96220,7 +96258,7 @@
       "description": "Immune to disease. Lives for 250 years. Loves to mine, craft, and make friends.\n\n<i><color=#66E0E4FF>Lord of the Rims - Dwarves</color></i>",
       "defName": "LotRD_DwarfStandardRace",
       "enabled": true,
-      "name": "dwarf",
+      "name": "lorddwaf",
       "price": 2917
     },
     {
@@ -96619,7 +96657,7 @@
       },
       "description": "Whether due to scientific experimentation, occult interference, or comic fluke, these are poor souls for whom death has been abjured.\n\n<i><color=#66E0E4FF>Call of Cthulhu - Cults</color></i>",
       "defName": "ReanimatedCorpse",
-      "enabled": true,
+      "enabled": false,
       "name": "reanimated corpse",
       "price": 1
     },
@@ -96917,12 +96955,12 @@
         ],
         "mod": "[Ry]Rimcraft",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "The High Elves, or Quel'dorei (\"children of noble birth\"), are a race descended from the Highborne night elves who left Kalimdor and settled in the Eastern Kingdoms, founding Quel'Thalas. The high elves were once a significant force on the continent, but in recent times their numbers have been dramatically reduced: almost 90% of their population in Quel'Thalas was slaughtered during the Third War.\n\n<i><color=#66E0E4FF>(Ry)Rimcraft</color></i>",
       "defName": "WoW_HighElf",
       "enabled": true,
-      "name": "high elf",
+      "name": "highelf",
       "price": 5000
     },
     {
@@ -97272,12 +97310,12 @@
         ],
         "mod": "Rimhammer - The End Times - Dwarfs",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A warhammer themed dwarf. Relatively immune to disease due to high constitution. Live for 400 years or so typically, but can be as old as 700 years. Love gold, as well as to mine, build, and craft. Collectively known as dawi in their own language: khazalid.\n\n<i><color=#66E0E4FF>Rimhammer - The End Times - Dwarfs</color></i>",
       "defName": "RH_TET_Dwarf_Race_Standard",
       "enabled": true,
-      "name": "dwarf",
+      "name": "40kdwarf",
       "price": 2917
     },
     {
@@ -97427,12 +97465,12 @@
         ],
         "mod": "Dragonian Race",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race</color></i>",
       "defName": "Dragonian_Male",
       "enabled": true,
-      "name": "Dragonian",
+      "name": "dragonian1",
       "price": 9667
     },
     {
@@ -97465,12 +97503,12 @@
         ],
         "mod": "Dragonian Race",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Race</color></i>",
       "defName": "Dragonian_Female",
       "enabled": true,
-      "name": "Dragonian",
+      "name": "dragonian2",
       "price": 9667
     },
     {
@@ -98098,6 +98136,560 @@
       "enabled": true,
       "name": "Kurin",
       "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1900 Market value",
+          "+7.85 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+43.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+85% Research speed",
+          "+150% Mining speed",
+          "+2.3 Melee dodge chance",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+1.5 Shooting accuracy",
+          "+70% Global work speed",
+          "+90% Global learning factor",
+          "+50 Honor value"
+        ],
+        "mod": "Dragon Ball Z: Rimworld Adventures - Revived!",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A Humanoid being, with amazing combat capabilites thanks to their home world having ten times the normal earth gravity, but they're not as resourceful as normal humans.\n        Most of them travel in single or 2 person groups, they are a proud warrior race, and in their eyes, power means everything. That and food.\n\n<i><color=#66E0E4FF>Dragon Ball Z: Rimworld Adventures - Revived!</color></i>",
+      "defName": "Saiyan_Race",
+      "enabled": true,
+      "name": "saiyan",
+      "price": 3167
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+30% Flammability",
+          "+$10000 Market value",
+          "+10.00 Move speed",
+          "-200.0C Minimum comfortable temperature",
+          "+1000.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+20% Psychic sensitivity",
+          "+200% Mining speed",
+          "+120% Construction speed",
+          "+120% Research speed",
+          "+100% Animal gather speed",
+          "+100% Animal gather yield",
+          "+1000% Pain shock threshold",
+          "+10% Toxic sensitivity",
+          "+20% Mental break threshold",
+          "+200% Immunity gain speed",
+          "+1000 Carrying capacity",
+          "+100 Honor value"
+        ],
+        "mod": "Frieza Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Extremely powerful space lizards.\n\n<i><color=#66E0E4FF>Frieza Race</color></i>",
+      "defName": "Icejin",
+      "enabled": true,
+      "name": "Frieza",
+      "price": 16667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$10000 Market value",
+          "+5.00 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+150% Psychic sensitivity",
+          "+100% Mining speed",
+          "+100% Construction speed",
+          "+80% Research speed",
+          "+150% Animal gather speed",
+          "+150% Animal gather yield",
+          "+1000% Pain shock threshold",
+          "+150% Toxic sensitivity",
+          "+20% Mental break threshold",
+          "+300% Immunity gain speed",
+          "+1000 Carrying capacity",
+          "+50 Honor value"
+        ],
+        "mod": "Namekians",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The very powerful, slug/plant-like people originally from old Planet Namek.\n\n<i><color=#66E0E4FF>Namekians</color></i>",
+      "defName": "Namek",
+      "enabled": true,
+      "name": "Namekian",
+      "price": 16667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$100000 Market value",
+          "+5.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+20.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+150% Psychic sensitivity",
+          "+100% Mining speed",
+          "+100% Construction speed",
+          "+120% Research speed",
+          "+150% Animal gather speed",
+          "+150% Animal gather yield",
+          "+1000% Pain shock threshold",
+          "+80% Toxic sensitivity",
+          "+20% Mental break threshold",
+          "+300% Immunity gain speed",
+          "+1500 Carrying capacity",
+          "+500 Honor value"
+        ],
+        "mod": "Namekians",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It's Lord Slug!\n\n<i><color=#66E0E4FF>Namekians</color></i>",
+      "defName": "N_Slug",
+      "enabled": true,
+      "name": "Super Namekian",
+      "price": 1666
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+50% Flammability",
+          "+$5800 Market value",
+          "+5.20 Move speed",
+          "-45.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+150% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+40.0% Armor - Sharp",
+          "+30.0% Armor - Blunt",
+          "+40.0% Armor - Heat",
+          "+60% Toxic sensitivity",
+          "+110% Eating speed",
+          "+45 Meat amount",
+          "+80% Plant work speed",
+          "+120% Plant harvest yield",
+          "+75 Leather amount",
+          "+80% Mining speed",
+          "+120% Mining yield",
+          "+1.0 Melee dodge chance",
+          "+100% Aiming time",
+          "+80.00% Negotiation ability",
+          "+90% Construction speed",
+          "+125.00% Social impact"
+        ],
+        "mod": "Dragonian Prime Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.\n\n<i><color=#66E0E4FF>Dragonian Prime Race</color></i>",
+      "defName": "Dragonian_Prime",
+      "enabled": true,
+      "name": "Dragonian",
+      "price": 9667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Standard Security variant of the Defender, mostly commonly found on starships to urban military installations. It features higher armour.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperDefender",
+      "enabled": true,
+      "name": "Peacekeeper Defender",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Forest variant of the Defender. It features higher melee skills and agility and has a movement bonus on forest terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperDefenderForest",
+      "enabled": true,
+      "name": "Peacekeeper Defender Forest",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Desert variant of the Defender. It features higher rate of fire and has a movement bonus on desert terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperDefenderDesert",
+      "enabled": true,
+      "name": "Peacekeeper Defender Desert",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Winter variant of the Defender. It features higher accuracy and has a movement bonus on snowy terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperDefenderWinter",
+      "enabled": true,
+      "name": "Peacekeeper Defender Winter",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Standard Security variant of the Enforcer, a common sight on war torn planets and are fielded by massive private and planetary armies. It features higher armour.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperEnforcer",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Forest variant of the Enforcer. It features higher melee skills and agility and has a movement bonus on forest terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperEnforcerForest",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Forest",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Desert variant of the Enforcer. It features higher rate of fire and has a movement bonus on desert terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperEnforcerDesert",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Desert",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Winter variant of the Enforcer. It features higher accuracy and has a movement bonus on snowy terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperEnforcerWinter",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Winter",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Standard Security variant of the Sentinel, they are often found in few numbers supporting the vast armies of Defenders and Enforcers in an ongoing conflict. It features higher armour.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperSentinel",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel",
+      "price": 23333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Forest variant of the Sentinel. It features higher melee skills and agility and has a movement bonus on forest terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperSentinelForest",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Forest",
+      "price": 23333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Desert variant of the Sentinel. It features higher rate of fire and has a movement bonus on desert terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperSentinelDesert",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Desert",
+      "price": 23333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Rimsec Security",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Winter variant of the Sentinel. It features higher accuracy and has a movement bonus on snowy terrain.\n\n<i><color=#66E0E4FF>Rimsec Security</color></i>",
+      "defName": "RSPeacekeeperSentinelWinter",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Winter",
+      "price": 23333
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.08 Move speed",
+          "+6.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+85% Psychic sensitivity",
+          "+120% Mining speed",
+          "+110% Construction speed",
+          "+110% Research speed",
+          "+110% Animal gather speed",
+          "+110% Animal gather yield"
+        ],
+        "mod": "Logann Race (Continued)",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A robust race of fighters, the Logann boast an uncanny regeneration factor.\n\n<i><color=#66E0E4FF>Logann Race (Continued)</color></i>",
+      "defName": "Alien_Wolvx",
+      "enabled": true,
+      "name": "Logann",
+      "price": 3333
     }
   ]
 }

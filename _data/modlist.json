@@ -36,6 +36,12 @@
     "version": "9.0.1"
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
@@ -201,7 +207,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.6.1"
+    "version": "1.6.2"
   },
   {
     "author": "latta",
@@ -210,10 +216,16 @@
     "version": null
   },
   {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.3.9.0"
+  },
+  {
     "author": "siiftun1857",
     "name": "Explorite Core",
     "steamId": "2384633508",
-    "version": "0.5.3"
+    "version": "0.6.0"
   },
   {
     "author": "Odeum",
@@ -234,16 +246,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Vaniat",
-    "name": "Polarisbloc - Core LAB",
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType for Alien Races ",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Achtung!",
-    "steamId": "730936602",
-    "version": "3.3.8.0"
+    "author": "Vaniat",
+    "name": "Polarisbloc - Core LAB",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Roolo and Updated by Ogliss",
@@ -339,7 +351,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.6.2"
+    "version": "2.6.3"
   },
   {
     "author": "Jecrell",
@@ -456,6 +468,12 @@
     "version": "2.2.1.0"
   },
   {
+    "author": "Wemd",
+    "name": "[WD] Soil Contrast",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Hey my team rules!",
     "name": "Advanced Biomes (Continued)",
     "steamId": "2052116426",
@@ -516,12 +534,6 @@
     "version": null
   },
   {
-    "author": "Xavior",
-    "name": "Glitter Tech",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sarg",
     "name": "RimBees",
     "steamId": "1558161673",
@@ -555,12 +567,6 @@
     "author": "JisPichi",
     "name": "Perfect Pathfinding",
     "steamId": "2341486509",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "FLASHPOINT55",
-    "name": "RPG Style Level Up Mod",
-    "steamId": "1995668415",
     "version": "1.0.0.0"
   },
   {
@@ -654,6 +660,42 @@
     "version": "4.7.272"
   },
   {
+    "author": "FLASHPOINT55",
+    "name": "RPG Style Level Up Mod",
+    "steamId": "1995668415",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Relations Tab",
+    "steamId": "709317151",
+    "version": "2.6.72"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.33.649"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist",
+    "steamId": "1365242717",
+    "version": "2.9.140"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.21.303"
+  },
+  {
+    "author": "Fluffy - Updated by arof",
+    "name": "Work Tab 1.3 Update",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Epicguru (James B)",
     "name": "RimForge",
     "steamId": "2505778174",
@@ -703,15 +745,15 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Rimatomics",
+    "name": "Rimatomics",
     "steamId": "1127530465",
-    "version": "1.7.7368"
+    "version": "1.7.2439"
   },
   {
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
-    "version": "1.3.0.1"
+    "version": "1.3.0.2"
   },
   {
     "author": "Albion",
@@ -762,22 +804,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Relations Tab",
-    "steamId": "709317151",
-    "version": "2.6.72"
-  },
-  {
     "author": "Eren",
     "name": "Eren's Face Replace",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Fluffy - Updated by arof",
-    "name": "Work Tab 1.3 Update",
-    "steamId": "2552065963",
-    "version": "3.21.303"
   },
   {
     "author": "Comigo Games",
@@ -930,24 +960,6 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.33.649"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Pharmacist",
-    "steamId": "1365242717",
-    "version": "2.9.140"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Work Tab",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "O Negative",
     "name": "Communicable Diseases [1.3]",
     "steamId": "2016577520",
@@ -981,7 +993,7 @@
     "author": "Mlie",
     "name": "[RF] Rational Romance (Continued)",
     "steamId": "2013144996",
-    "version": "1.0.10.0"
+    "version": "1.0.11.0"
   },
   {
     "author": "Pravus",
@@ -1072,12 +1084,6 @@
     "name": "Begone, Message!",
     "steamId": "1951637504",
     "version": "1.5"
-  },
-  {
-    "author": "Freefolk",
-    "name": "Combat Bionics",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Epicguru (James B)",
@@ -1308,6 +1314,12 @@
     "version": null
   },
   {
+    "author": "Aelanna",
+    "name": "Better Pyromania",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Plants Expanded",
     "steamId": null,
@@ -1419,7 +1431,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.2.0.0"
+    "version": "2.2.1.0"
   },
   {
     "author": "Captain Muscles (Nathan Harbour)",
@@ -1485,7 +1497,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.7856.17248"
+    "version": "1.0.7969.5967"
   },
   {
     "author": "Udon",
@@ -1656,12 +1668,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirMashedPotato",
-    "name": "MorrowRim",
-    "steamId": "2443089362",
-    "version": "1.6.82"
-  },
-  {
     "author": "Knight",
     "name": "Use Your Gun!",
     "steamId": null,
@@ -1782,6 +1788,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Fuu Chan",
+    "name": "[Fuu] Auto Strip on Haul",
+    "steamId": "2560725133",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Taveron",
     "name": "Increased Stack",
     "steamId": null,
@@ -1792,6 +1804,18 @@
     "name": "RunAndGun",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Build From Inventory",
+    "steamId": "1691419062",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2375193973",
+    "version": "1.0.1"
   },
   {
     "author": "Holgast",
@@ -1818,6 +1842,12 @@
     "version": null
   },
   {
+    "author": "Spdskatr,  CaesarV6 and  Scherub",
+    "name": "Damage Indicators [1.3]",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Haecriver",
     "name": "Injured Carry",
     "steamId": null,
@@ -1836,10 +1866,34 @@
     "version": null
   },
   {
+    "author": "Zeitloser and  Erin",
+    "name": "Birds Beyond: Temperate Forest",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
     "author": "iwishforducks",
     "name": "Ducks' Insane Skills",
     "steamId": "2450186578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Ben Lubar",
+    "name": "Prison Commons",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and  Kikohi",
@@ -1980,6 +2034,12 @@
     "version": null
   },
   {
+    "author": "Erin and AveryTheKitty",
+    "name": "Erin's Japanese Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "OskarPotocki,  Atlas and  Kikohi",
     "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
@@ -2010,6 +2070,18 @@
     "version": null
   },
   {
+    "author": "Freefolk",
+    "name": "Combat Bionics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xavior",
+    "name": "Glitter Tech",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oracle of Thessia",
     "name": "Rim-Effect: SRTS Shuttles",
     "steamId": null,
@@ -2022,12 +2094,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Erin and AveryTheKitty",
-    "name": "Erin's Japanese Furniture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Xen and Jecrell",
     "name": "Star Wars - Fully Functional Lightsabers (Continued)",
     "steamId": "2263225380",
@@ -2038,6 +2104,24 @@
     "name": "Camping Tent",
     "steamId": "2407128339",
     "version": "2.1.1.0"
+  },
+  {
+    "author": "Geminingen",
+    "name": "Kenshi Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DevDesigner",
+    "name": "Roles Apparel Unlocked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Coffee and Tea",
+    "steamId": "1485312620",
+    "version": "1.0.0.0"
   },
   {
     "author": "AUTOMATIC",
@@ -2054,6 +2138,12 @@
   {
     "author": "Haplo",
     "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Meng De",
+    "name": "A Scouter!",
     "steamId": null,
     "version": null
   },
@@ -2151,7 +2241,7 @@
     "author": "Inglix",
     "name": "Faster Biosculpter Pod",
     "steamId": "2576257954",
-    "version": "1.0.0.0"
+    "version": "2.6.1.0"
   },
   {
     "author": "Techmago",
@@ -2172,16 +2262,16 @@
     "version": null
   },
   {
-    "author": "Sam",
-    "name": "Glitter Tech",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "MrKociak",
     "name": "More Archotech Garbage Reupload",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Change Dresser",
+    "steamId": "1385697110",
+    "version": "1.0.0.0"
   },
   {
     "author": "JangoD'soul",
@@ -2208,14 +2298,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "leion247",
-    "name": "Higher Power",
+    "author": "balistafreak",
+    "name": "Standalone Hot Spring",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Geminingen",
-    "name": "Kenshi Armory",
+    "author": "leion247",
+    "name": "Higher Power",
     "steamId": null,
     "version": null
   },
@@ -2382,6 +2472,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "4loris4",
+    "name": "More Linkables",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Udon",
     "name": "Super Size Bed!",
     "steamId": null,
@@ -2392,6 +2488,12 @@
     "name": "Herbal Tea",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Animation",
+    "steamId": "2575938407",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki",
@@ -2454,6 +2556,12 @@
     "version": null
   },
   {
+    "author": "SirMashedPotato",
+    "name": "MorrowRim",
+    "steamId": "2443089362",
+    "version": "1.6.87"
+  },
+  {
     "author": "Kompadt",
     "name": "Warhammer: Skaven",
     "steamId": null,
@@ -2510,6 +2618,12 @@
   {
     "author": "Andross",
     "name": "Royal Thrumbos",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ace Raider,  Zero-Exodus and  Meng De",
+    "name": "Dragon Ball Z: Rimworld Adventures - Revived!",
     "steamId": null,
     "version": null
   },
@@ -2580,6 +2694,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Meng De",
+    "name": "Frieza Race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "wagon",
     "name": "More Monster Girls",
     "steamId": "2014838309",
@@ -2628,6 +2748,12 @@
     "version": null
   },
   {
+    "author": "Meng De",
+    "name": "Namekians",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Spencer7w",
     "name": "The Inquisition (Warhammer 40k)",
     "steamId": null,
@@ -2658,6 +2784,12 @@
     "version": null
   },
   {
+    "author": "Sergkart",
+    "name": "kemomimilike",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Bob",
     "name": "Bob's Mass Effect Turians",
     "steamId": null,
@@ -2676,6 +2808,12 @@
     "version": null
   },
   {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Runne Latki",
     "name": "Rabbie The Moonrabbit race",
     "steamId": null,
@@ -2684,6 +2822,18 @@
   {
     "author": "sunny",
     "name": "Rabbie The Moonrabbit - English Patch (1.3)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tormound",
+    "name": "Dragonian Prime Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "然提携夜灯",
+    "name": "Dragonian V1.3(unofficial)",
     "steamId": null,
     "version": null
   },
@@ -2704,6 +2854,12 @@
     "name": "Lord of the Rims - Hobbits",
     "steamId": "1400227853",
     "version": "1.22.0.0"
+  },
+  {
+    "author": "Shakesthespeare and  iforgotmysocks",
+    "name": "Rimsec Security",
+    "steamId": "2323762086",
+    "version": "2.1.6"
   },
   {
     "author": "Jecrell",
@@ -2756,6 +2912,12 @@
   {
     "author": "Buffsboy474",
     "name": "Skaven Upgraded! (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen and  ChJees",
+    "name": "Logann Race (Continued)",
     "steamId": null,
     "version": null
   },
@@ -2836,12 +2998,6 @@
     "name": "Rimsenal - Rimhair",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Show Hair With Hats or Hide All Hats",
-    "steamId": "1180826364",
-    "version": "1.0.0.0"
   },
   {
     "author": "Rooboid",

@@ -201,7 +201,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.6"
+    "version": "2.5.8.3"
   },
   {
     "author": "Kure",
@@ -1525,6 +1525,12 @@
   },
   {
     "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.2.0.8"
+  },
+  {
+    "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
     "version": "1.0.5.0"
@@ -1552,12 +1558,6 @@
     "name": "ToolkitPolls",
     "steamId": "2435838514",
     "version": "1.1.1.6"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.2.0.7"
   },
   {
     "author": "saschahi",

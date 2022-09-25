@@ -1012,10 +1012,10 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasGlobalCooldown": true,
+      "globalCooldown": 60,
+      "hasLocalCooldown": true,
+      "localCooldown": 60,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.\n<i><color=#66E0E4FF>ToolkitUtils</color></i>\n(ToolkitUtils)",
@@ -1204,6 +1204,60 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "cleanup"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": null,
+    "name": "Purchase list",
+    "usage": "!purchaselist",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "PurchaseList"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Gives a viewer some of your coins.\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>\n(Twitch Toolkit)",
+    "name": "Gift coins",
+    "usage": "!giftcoins <viewer> <amount>",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "GiftCoins"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Shows you the complete list of installed mods.\n<i><color=#66E0E4FF>Twitch Toolkit</color></i>\n(Twitch Toolkit)",
+    "name": "Installed mods",
+    "usage": "!installedmods",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "InstalledMods"
   },
   {
     "data": {

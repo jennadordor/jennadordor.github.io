@@ -376,11 +376,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "immortality",
-		"price": 100000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "alphaasteroid",
 		"price": 1000,
 		"karmatype": "Neutral"
@@ -446,5 +441,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 89
+	"total": 88
 }

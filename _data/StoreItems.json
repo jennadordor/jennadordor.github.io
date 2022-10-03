@@ -20622,6 +20622,36 @@
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggStymphalianBirdFertilized"
 	},
+	{
+		"abr": "battleshiphullrefit",
+		"price": 5000,
+		"category": "Prosthetic",
+		"defname": "FSG_BattleshipHullKit"
+	},
+	{
+		"abr": "40mmcannon",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "Mech40MMCannon"
+	},
+	{
+		"abr": "accelerant",
+		"price": 917,
+		"category": "Drugs",
+		"defname": "SNS_Drug_Combat_II"
+	},
+	{
+		"abr": "advandroidassemblykit",
+		"price": 3667,
+		"category": "Manufactured",
+		"defname": "AndroidT2Kit"
+	},
+	{
+		"abr": "advancedbatterypack",
+		"price": 2833,
+		"category": "Android",
+		"defname": "NanowireBattery"
+	}
 	],
-	"total": 3937
+	"total": 3866
 }

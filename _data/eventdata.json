@@ -361,9 +361,9 @@
   },
   "raid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 600,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -449,7 +449,7 @@
   },
   "pawn": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
@@ -713,9 +713,9 @@
   },
   "alphaasteroid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 600,
     "LocalCooldown": 0,
     "Mod": "Unknown"
   },
@@ -729,17 +729,17 @@
   },
   "stalkingarcticlion": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 600,
     "LocalCooldown": 0,
     "Mod": "Unknown"
   },
   "stalkingsnowclutchmother": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 600,
     "LocalCooldown": 0,
     "Mod": "Unknown"
   },
@@ -753,17 +753,17 @@
   },
   "stalkingclutchmother": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 600,
     "LocalCooldown": 0,
     "Mod": "Unknown"
   },
   "animaliskwanderin": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 600,
     "LocalCooldown": 0,
     "Mod": "Unknown"
   },
@@ -793,9 +793,9 @@
   },
   "bumbledroneswanderin": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 600,
     "LocalCooldown": 0,
     "Mod": "Unknown"
   },

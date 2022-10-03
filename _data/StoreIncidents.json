@@ -2,18 +2,38 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 80000,
-		"karmatype": "Doom"
+		"price": 800,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 260000,
-		"karmatype": "Doom"
+		"price": 2600,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "rain",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "vomitrain",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "foggyrain",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rainythunderstorm",
+		"price": 250,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "drythunderstorm",
@@ -111,6 +131,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -138,6 +163,11 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -184,6 +214,36 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "raid",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "dropraid",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 25000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 25000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
@@ -307,7 +367,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -381,6 +441,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "aeorofleetmigration",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "stalkingarcticlion",
 		"price": 1000,
 		"karmatype": "Bad"
@@ -407,8 +472,8 @@
 	},
 	{
 		"abr": "SummitCrabRaid",
-		"price": 1500,
-		"karmatype": "Bad"
+		"price": 15000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "cactipinedroppod",
@@ -426,20 +491,40 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "raidblackhive",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "raidmechanoidsappers",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "fungalhuskwandersin",
 		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "raidpoachers",
-		"price": 1000,
-		"karmatype": "Bad"
+		"price": 10000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "raidloggers",
-		"price": 1000,
-		"karmatype": "Bad"
+		"price": 10000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "hostiletraveler",
+		"price": 400,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hostilecaravan",
+		"price": 700,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 88
+	"total": 105
 }

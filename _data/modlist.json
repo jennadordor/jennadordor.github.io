@@ -66,6 +66,12 @@
     "version": "1.3.0.4"
   },
   {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -111,7 +117,7 @@
     "author": "ISOREX,  Turnovus and community contributors.",
     "name": "Community Framework",
     "steamId": "2585162118",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   {
     "author": "Haplo",
@@ -318,6 +324,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "explodoboy",
+    "name": "Science Never Stops: Ambition of the Cosmic",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Lanilor and  Pustalorc",
     "name": "Loot Boxes [CONTINUED]",
     "steamId": "2191113747",
@@ -364,6 +376,12 @@
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
     "version": "1.0.7862.37403"
+  },
+  {
+    "author": "TheCammy",
+    "name": "Identity",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "RSev",
@@ -612,6 +630,12 @@
     "version": null
   },
   {
+    "author": "Comigo Games",
+    "name": "Comigo's Grim Traders",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Camp Loot",
     "steamId": null,
@@ -672,6 +696,12 @@
     "version": null
   },
   {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "lbmaian",
     "name": "Begone, Message!",
     "steamId": "1951637504",
@@ -720,6 +750,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Darth_Sergeant",
     "name": "Nurse Job",
     "steamId": null,
@@ -738,8 +774,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Razor 2.3",
-    "name": "Auto-Cut Blight",
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "No One Left Behind",
+    "steamId": "2401146569",
+    "version": "1.1.1"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
     "steamId": null,
     "version": null
   },
@@ -754,12 +796,6 @@
     "name": "QualitySurgeon",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Velc",
-    "name": "Hats Display Selection",
-    "steamId": "1542291825",
-    "version": "1.0.0.0"
   },
   {
     "author": "targhetti",
@@ -1098,14 +1134,14 @@
     "version": null
   },
   {
-    "author": "Hahkethomemah",
-    "name": "Honest Corpse",
+    "author": "Hanabishi",
+    "name": "In-wall coolers and vents",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Hanabishi",
-    "name": "In-wall coolers and vents",
+    "author": "Hahkethomemah",
+    "name": "Honest Corpse",
     "steamId": null,
     "version": null
   },
@@ -1118,18 +1154,6 @@
   {
     "author": "leion247",
     "name": "Higher Power",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "tikubonn",
-    "name": "DiceOfDestiny",
     "steamId": null,
     "version": null
   },
@@ -1344,8 +1368,56 @@
     "version": null
   },
   {
+    "author": "Farmradish",
+    "name": "Nyaron race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Gloomylynx NukaFrog",
     "name": "Dragonian Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vinzero",
+    "name": "Revia Race - Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velc",
+    "name": "Hats Display Selection",
+    "steamId": "1542291825",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tikubonn",
+    "name": "DiceOfDestiny",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rin",
+    "name": "Ratkin Apparel+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Feng Xinzi",
+    "name": "Hyacinth's Ratkin Facial Animation",
     "steamId": null,
     "version": null
   },
@@ -1462,6 +1534,12 @@
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
     "version": "1.1.9"
+  },
+  {
+    "author": "Andreas Pardeike and  BleuSquid",
+    "name": "Puppeteer",
+    "steamId": "2594873651",
+    "version": "1.6.2.1"
   },
   {
     "author": "Trinity",

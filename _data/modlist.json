@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -36,6 +36,24 @@
     "version": null
   },
   {
+    "author": "HaiLuan and 昏暗",
+    "name": "Dlc collaboration - Void universe",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kotobike",
+    "name": "Monolith is a part of the ship",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Patricia?!",
+    "name": "Patricia's Moveable Monoliths",
+    "steamId": "3219733061",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -48,20 +66,44 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Zaljerem",
-    "name": "JecsLite - A RimWorld of Magic",
-    "steamId": "3312959701",
-    "version": "1.0.4.0"
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.4.3"
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded - Puppeteer",
+    "steamId": "3033779606",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Hautarche",
+    "name": "Hauts' Framework",
+    "steamId": "3422815711",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LH0609",
+    "name": "Humanlike Ghoul",
+    "steamId": "3223881925",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Seanggag",
+    "name": "Ratkin Xenotype",
     "steamId": null,
     "version": null
   },
@@ -90,16 +132,16 @@
     "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
   },
   {
+    "author": "seobongzu",
+    "name": "[sbz] Neat Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
     "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
   },
   {
     "author": "Nephlite, Maxim and Viceroy",
@@ -108,16 +150,10 @@
     "version": null
   },
   {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
+    "author": "Captolamia",
+    "name": "Toolkit Core 2.0e",
+    "steamId": "3576160360",
+    "version": "2.0.9405.16390"
   },
   {
     "author": "the_heye",
@@ -126,21 +162,33 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
+    "author": "Captolamia",
+    "name": "Twitch Toolkit 2.0e",
+    "steamId": "3576161899",
+    "version": "2.0.9416.40111"
   },
   {
     "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
-    "steamId": "3239583412",
-    "version": "1.6.0.1"
+    "name": "Toolkit Utilities 2.0e",
+    "steamId": "3576163690",
+    "version": "7.0.6.0-RC1+dd8d0b5bfd6b5c002511544c79e0ce20644d01df"
   },
   {
     "author": "Sarg",
     "name": "Smart Speed",
     "steamId": "1504723424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes for 2.0e",
+    "steamId": "3577496838",
+    "version": "2.0.9402.38008"
+  },
+  {
+    "author": "Hautarche",
+    "name": "Hauts' Added Traits",
+    "steamId": "3422847391",
     "version": "1.0.0.0"
   },
   {
@@ -150,16 +198,28 @@
     "version": null
   },
   {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity (exDev) & Luca (Current Maintainer)",
+    "name": "[LC] Consolidated Traits",
+    "steamId": "2879753009",
+    "version": "1.0.9295.42216"
+  },
+  {
     "author": "Oskar Potocki, Taranchuk and Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
     "version": "1.4.1.0"
   },
   {
+    "author": "Danimineiro",
+    "name": "[DN] Bundle Of Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Biscuit",
     "name": "Archotech+ (Continued)",
     "steamId": "2270493883",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   {
     "author": "Falconne / Syrus",
@@ -184,6 +244,12 @@
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
     "version": "1.6.4553.2"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, Reann Shepard and Sir Van",
+    "name": "Vanilla Psycasts Expanded - Hemosage",
+    "steamId": "2990596478",
+    "version": "1.0.1.0"
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
